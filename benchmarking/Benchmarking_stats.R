@@ -1,34 +1,35 @@
+source(file.path(here::here(),"0-config.R"))
 ##Comparison of metrics between assembly strategies
-library(reshape2)
-library(ggplot2)
-library(ggpubr)
+# library(reshape2)
+# library(ggplot2)
+# library(ggpubr)
 
 #Assembly metrics
 #Load data from all ratios
 #ratio1
-Stats_r1_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r1_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r1_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r1_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r1_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r1_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r1_l_s.txt"), sep = "\t", header = F, row.names = 1)
 #ratio2
-Stats_r2_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r2_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r2_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r2_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r2_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r2_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r2_l_s.txt"), sep = "\t", header = F, row.names = 1)
 #ratio3
-Stats_r3_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r3_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r3_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r3_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r3_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r3_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r3_l_s.txt"), sep = "\t", header = F, row.names = 1)
 #ratio4
-Stats_r4_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r4_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r4_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r4_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r4_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r4_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r4_l_s.txt"), sep = "\t", header = F, row.names = 1)
 #ratio5
-Stats_r5_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r5_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r5_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r5_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r5_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r5_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r5_l_s.txt"), sep = "\t", header = F, row.names = 1)
 #ratio6
-Stats_r6_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_s.txt", sep = "\t", header = F, row.names = 1)
-Stats_r6_s_l = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_s_l.txt", sep = "\t", header = F, row.names = 1)
-Stats_r6_l_s = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_l_s.txt", sep = "\t", header = F, row.names = 1)
+Stats_r6_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_s.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r6_s_l = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_s_l.txt"), sep = "\t", header = F, row.names = 1)
+Stats_r6_l_s = read.table(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Benchmarking/R_scripts/data/Assembly_r6_l_s.txt"), sep = "\t", header = F, row.names = 1)
 
 combine_data = function(x,y,z) {
   Stats_r_s.t = data.frame(t(x))
@@ -402,12 +403,12 @@ N50_all = ggarrange(N50_p1,N50_p2,N50_p3,N50_p4,N50_p5,N50_p6)
 #ARG detection
 
 #Load data from all ratios
-ARG_N.r1 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r1.txt", sep = "\t", header = F, row.names = 1)
-ARG_N.r2 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r2.txt", sep = "\t", header = F, row.names = 1)
-ARG_N.r3 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r3.txt", sep = "\t", header = F, row.names = 1)
-ARG_N.r4 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r4.txt", sep = "\t", header = F, row.names = 1)
-ARG_N.r5 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r5.txt", sep = "\t", header = F, row.names = 1)
-ARG_N.r6 = read.table("/Users/danielkim617/Library/CloudStorage/Box-Box/danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r6.txt", sep = "\t", header = F, row.names = 1)
+ARG_N.r1 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r1.txt"), sep = "\t", header = F, row.names = 1)
+ARG_N.r2 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r2.txt"), sep = "\t", header = F, row.names = 1)
+ARG_N.r3 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r3.txt"), sep = "\t", header = F, row.names = 1)
+ARG_N.r4 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r4.txt"), sep = "\t", header = F, row.names = 1)
+ARG_N.r5 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r5.txt"), sep = "\t", header = F, row.names = 1)
+ARG_N.r6 = read.table(file.path(box.path, "danielkim617/R_scripts/Benchmarking/data/ARG_raw_short_r6.txt"), sep = "\t", header = F, row.names = 1)
 
 
 ARG_N.r1.t = data.frame(t(ARG_N.r1))
