@@ -2,7 +2,7 @@ source(file.path(here::here(),"0-config.R"))
 #Load data
 library(ggsn)
 library(ggmap)
-register_stadiamaps("a57f4e4a-a56c-41ca-8855-2b58e5ffbb72")
+
 hh_survey = read.csv(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Kenyan_dataset/survey_data/data_cleaning/KEMRI_env_surv-hh_survey-CLEANED-20200130.csv"))
 hh_survey$hh_id_3dig = substr(hh_survey$hh_id_5dig,3,5)
 sample.list = readRDS(file.path(box.path, "Pickering_Kenya_AMR/ecoli/danielkim617/Kenyan_dataset/new_data1/sample.list.rds"))

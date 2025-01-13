@@ -146,7 +146,7 @@ stat.figure = function(x){
   return(ggarrange(coverage_p, contiguity_p, avg_p, N50_p, ncol=2, nrow = 2))
 }
 
-
+# Plot figures
 stat.figure(ratio1.stats)
 stat.figure(ratio2.stats)
 stat.figure(ratio3.stats)

@@ -1,0 +1,1763 @@
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1005_straingst	1093921004	51125565	70391	140.424	90.359									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_L37.fa.gz	44332	44285	70391	0.957	199.712	189.325	0.857	0.957	0.746	66.222	77.406	0.561	0.752
+1	Esch_coli_BLK9.fa.gz	40898	6590	27992	0.932	74.866	69.385	0.324	0.932	0.677	5.099	4.201	0.178	0.262
+2	Esch_coli_BL21_TaKaRa.fa.gz	44349	2708	21853	0.624	82.18	50.978	0.145	0.624	0.363	19.038	1.27	0.013	0.035
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1009_straingst	1774128929	66556645	61048	218.412	75.156									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_442_2.fa.gz	47236	47198	61048	0.889	253.352	221.684	0.798	0.889	0.887	75.156	59.94	0.498	0.561
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1011_straingst	1615545207	71530134	95754	140.283	83.146									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45159	95754	0.969	202.649	194.308	0.66	0.969	0.822	10.788	54.876	0.493	0.6
+1	Esch_coli_STEC299.fa.gz	47757	24461	52006	0.775	136.287	101.738	0.566	0.775	0.922	33.212	15.998	0.243	0.264
+2	Esch_coli_LH09-a.fa.gz	45993	9604	33042	0.88	23.721	20.512	0.101	0.88	0.64	4.839	1.241	0.044	0.069
+3	Esch_coli_SCU-104.fa.gz	49924	5964	24592	0.476	170.943	68.281	0.272	0.476	0.856	34.307	3.005	0.025	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1020_straingst	2056705396	70099914	61325	289.283	86.256									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC299.fa.gz	47757	47731	61325	0.852	346.467	288.241	0.794	0.852	0.894	86.256	68.507	0.439	0.491
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1021_straingst	4139536426	137876708	76871	476.047	88.402									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CI5.fa.gz	48099	48060	76871	0.904	692.721	619.948	0.822	0.904	0.842	88.402	72.69	0.511	0.607
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1024_straingst	3701367664	156871593	111701	287.737	86.834									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_JL05.fa.gz	46571	46506	111701	0.967	588.311	564.944	0.824	0.967	0.842	31.758	71.514	0.628	0.746
+1	Esch_coli_DE17.fa.gz	48345	24380	66708	0.856	109.59	91.338	0.403	0.856	0.789	19.476	6.176	0.199	0.252
+2	Esch_coli_EC21Z-014.fa.gz	47495	3833	45850	0.477	363.162	157.961	0.196	0.477	0.506	35.6	1.795	0.011	0.021
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1030_straingst	996496242	65894559	75956	119.759	91.284									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BMH-17-0027.fa.gz	47226	47190	75956	0.936	152.47	141.028	0.74	0.936	0.555	33.847	67.571	0.337	0.607
+1	Esch_coli_PS10-3.fa.gz	47810	17672	31794	0.577	125.626	72.134	0.542	0.577	0.781	57.437	12.864	0.082	0.104
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1031_straingst	1804141767	67646164	73533	224.895	91.662									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_81.fa.gz	46235	46181	73533	0.94	314.006	288.961	0.824	0.94	0.687	55.961	75.544	0.47	0.684
+1	Esch_coli_MB19.fa.gz	46620	10910	30129	0.714	195.651	134.358	0.524	0.714	0.806	35.702	8.453	0.154	0.191
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1033_straingst	1095544272	57227774	72088	133.496	87.842									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_027_SK3.fa.gz	45567	45513	72088	0.946	185.769	174.196	0.831	0.946	0.593	28.034	73.023	0.418	0.704
+1	Esch_coli_2_HS-C.fa.gz	44403	9242	29024	0.74	81.18	59.333	0.342	0.74	0.491	16.852	5.069	0.068	0.139
+2	Esch_coli_NMBU-W12E19.fa.gz	49731	7751	22183	0.446	101.138	40.544	0.327	0.446	0.736	42.956	3.192	0.021	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1038_straingst	1232586544	50680631	67035	170.299	92.618									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TKEC21-17.fa.gz	45050	45012	67035	0.938	233.591	216.802	0.864	0.938	0.843	55.007	80.003	0.6	0.713
+1	Esch_coli_WS0115A.fa.gz	46982	8249	24820	0.522	146.055	71.802	0.405	0.522	0.569	37.611	5.105	0.033	0.058
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1042_straingst	1128259505	66297122	93304	107.663	89.034									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_PI7.fa.gz	47878	47819	93304	0.978	152.925	147.07	0.712	0.978	0.323	20.35	63.364	0.214	0.665
+1	Esch_coli_MB56.fa.gz	45959	13143	46555	0.696	139.678	95.185	0.441	0.696	0.898	48.995	11.328	0.134	0.149
+2	Esch_coli_EC-1639.fa.gz	49632	18639	37405	0.648	45.186	28.878	0.337	0.648	0.775	19.69	4.836	0.071	0.092
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1045_straingst	1559092108	58331686	67878	215.168	93.677									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC2.fa.gz	49867	49821	67878	0.995	258.11	250.946	0.876	0.995	0.095	15.512	82.057	0.082	0.863
+1	Esch_coli_1283.fa.gz	45695	4850	18312	0.642	300.159	190.426	0.516	0.642	0.984	78.166	5.997	0.135	0.137
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1048_straingst	1752994449	66507023	61826	233.874	82.485									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_str_TO6.fa.gz	47167	47100	61826	0.894	296.694	260.366	0.864	0.894	0.895	82.485	71.254	0.552	0.617
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1049_straingst	1773533562	76069566	88860	165.721	83.032									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45147	88860	0.967	281.086	269.266	0.833	0.967	0.939	38.184	69.176	0.707	0.753
+1	Esch_coli_13P477T.fa.gz	49177	23665	45213	0.883	29.001	24.764	0.247	0.883	0.51	4.978	3.416	0.087	0.17
+2	Esch_coli_SCU-104.fa.gz	49924	6313	24325	0.583	200.549	100.233	0.398	0.583	0.589	39.869	4.159	0.046	0.079
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1050_straingst	1361731516	66334990	116631	90.556	77.56									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46826	116631	0.978	162.059	156.706	0.703	0.978	0.619	10.024	54.518	0.407	0.658
+1	Esch_coli_NCTC9041.fa.gz	46172	13133	70821	0.879	97.196	84.644	0.358	0.879	0.548	4.116	8.24	0.133	0.243
+2	Esch_coli_BE2-5.fa.gz	45963	5384	59277	0.8	57.77	45.936	0.123	0.8	0.336	2.94	1.828	0.021	0.063
+3	Esch_coli_2017_11_01CC.fa.gz	46241	4826	54968	0.707	44.878	31.12	0.087	0.707	0.666	8.774	1.124	0.02	0.031
+4	Esch_coli_RM9088.fa.gz	50590	8952	51557	0.433	116.308	45.272	0.28	0.433	1.049	51.705	3.312	0.022	0.023
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1051_straingst	1198113121	52783677	89208	122.816	91.445									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46824	89208	0.965	184.959	176.275	0.763	0.965	0.676	21.29	69.73	0.463	0.684
+1	Esch_coli_A29.fa.gz	46049	12506	44039	0.884	100.231	88.081	0.426	0.884	0.266	15.613	9.248	0.078	0.294
+2	Esch_coli_Ecol_AZ147.fa.gz	46122	7218	32984	0.642	115.806	73.519	0.359	0.642	0.718	26.269	4.48	0.068	0.095
+3	Esch_coli_f9610206-5e81-11e8-bf7f-3c4a9275d6c8.fa.gz	49059	9874	28349	0.548	38.967	19.516	0.22	0.548	0.461	28.274	1.759	0.017	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1053_straingst	1157381333	65051171	77699	107.883	72.426									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H3_GCF_001900815.1.fa.gz	45610	45558	77699	0.95	156.219	147.48	0.807	0.95	0.851	6.512	58.427	0.589	0.692
+1	Esch_coli_NCTC9087.fa.gz	45206	12143	34412	0.918	55.661	50.408	0.383	0.918	0.673	20.36	5.358	0.199	0.296
+2	Esch_coli_EC15.fa.gz	48384	4771	23270	0.423	159.373	62.797	0.321	0.423	2.55	45.554	2.777	0.01	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1055_straingst	3143682208	118210917	104726	272.697	90.844									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TUM20902.fa.gz	48117	48070	104726	1	379.359	373.766	0.638	1	0.421	18.248	57.985	0.268	0.638
+1	Esch_coli_ECNB21-M121.fa.gz	46643	19727	56675	0.886	354.577	306.674	0.6	0.886	0.682	46.635	19.72	0.285	0.418
+2	Esch_coli_Res13-Sevr-PER07-33.fa.gz	49217	10253	39191	0.759	201.419	150.784	0.38	0.759	0.858	25.961	4.989	0.143	0.166
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1057_straingst	1281731323	61745762	83570	138.851	90.532									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_UPEC-774U_190308.fa.gz	49071	49025	83570	0.977	181.672	175.603	0.75	0.977	0.669	37.136	67.879	0.468	0.699
+1	Esch_coli_NC19.fa.gz	47396	22498	35680	0.867	103.482	88.47	0.695	0.867	0.926	53.396	15.744	0.419	0.453
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1058_straingst	1413243424	54091470	61772	201.263	87.971									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45172	61772	0.947	243.1	227.638	0.837	0.947	0.954	17.677	73.621	0.679	0.712
+1	Esch_coli_G6_7.fa.gz	50857	10040	18973	0.438	257.873	97.898	0.559	0.438	0.971	70.294	8.029	0.046	0.047
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1060_straingst	1586204498	62164601	62653	213.355	84.273									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1190.fa.gz	48261	48237	62653	0.906	252.886	226.355	0.827	0.906	0.95	84.273	69.656	0.584	0.614
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1062_straingst	1554533695	62286748	97249	145.615	91.094									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	47857	97249	0.987	194.451	188.566	0.649	0.987	0.437	26.657	59.083	0.272	0.624
+1	Shig_flexneri_SWHIN_104.fa.gz	47104	20189	50015	0.868	133.554	114.425	0.471	0.868	0.852	24.109	15.063	0.263	0.308
+2	Esch_coli_MDR_56.fa.gz	48219	15075	32482	0.565	101.194	54.63	0.327	0.565	0.913	40.329	5.546	0.054	0.059
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1064_straingst	1387795828	67671353	68190	160.47	78.848									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H7.fa.gz	46920	46869	68190	0.963	220.073	208.962	0.908	0.963	0.679	52.76	71.574	0.55	0.811
+1	Esch_coli_NCTC9087.fa.gz	45206	5780	23055	0.79	83.669	65.413	0.378	0.79	0.846	26.088	2.752	0.158	0.186
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1066_straingst	1599167302	68268433	119673	106.521	79.715									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Ecol_AZ155.fa.gz	45677	45512	119673	0.993	247.814	243.193	0.879	0.993	0.875	61.868	70.046	0.754	0.861
+1	Esch_coli_ST648.fa.gz	49723	23343	74472	0.941	23.527	21.919	0.334	0.941	0.725	5.645	3.233	0.202	0.279
+2	Esch_fergusonii_EF20JDJ4045.fa.gz	45063	32559	52497	0.738	9.466	6.966	0.221	0.739	0.8	4.837	1.423	0.071	0.089
+3	Esch_coli_AR_0114.fa.gz	46809	5480	28455	0.68	29.11	19.417	0.135	0.68	1.198	7.364	0.678	0.035	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1068_straingst	1804217759	66773469	65925	247.146	90.306									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44763	65925	0.936	304.994	281.511	0.784	0.936	0.938	33.109	70.825	0.603	0.643
+1	Esch_coli_H3.fa.gz	47946	6558	24028	0.454	325.491	140	0.276	0.454	0.771	57.197	5.374	0.02	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1069_straingst	1736730352	79781434	71648	170.984	70.539									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MS14386.fa.gz	47646	47596	71648	0.955	227.877	215.577	0.846	0.955	0.758	46.103	59.655	0.559	0.737
+1	Esch_coli_103605.fa.gz	48773	11148	26183	0.685	93.411	55.176	0.377	0.685	0.85	24.436	4.106	0.103	0.121
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1071_straingst	1803158105	65771150	76003	211.743	89.249									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BE2-5.fa.gz	45963	45885	76003	0.963	320.755	305.867	0.88	0.963	0.854	70.599	78.572	0.67	0.785
+1	Shig_flexneri_SWHIN_104.fa.gz	47104	13502	31833	0.728	79.974	57.091	0.408	0.728	0.829	18.651	4.358	0.13	0.157
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1075_straingst	2013109815	71018817	72176	236.058	84.634									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_str_TO6.fa.gz	47167	47089	72176	0.934	333.931	306.551	0.862	0.934	0.892	60.896	72.933	0.626	0.702
+1	Esch_coli_VR50.fa.gz	48478	6985	28208	0.552	182.93	95.44	0.299	0.552	0.852	23.738	3.502	0.043	0.05
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1076_straingst	1377795977	63356932	84376	128.785	78.868									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VR50.fa.gz	48478	48397	84376	0.971	177.144	169.354	0.766	0.971	0.659	54.941	60.431	0.463	0.702
+1	Esch_coli_RIVM_C018576.fa.gz	49656	21826	37374	0.924	72.827	65.821	0.578	0.924	0.937	23.927	10.656	0.427	0.455
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1080_straingst	1351444609	62122412	80136	138.034	81.849									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44749	80136	0.958	208.481	197.881	0.808	0.958	0.909	19.676	66.121	0.645	0.71
+1	Esch_coli_Res13-Sevr-PER07-33.fa.gz	49217	19295	37274	0.83	40.046	32.748	0.302	0.83	0.734	7.894	4.745	0.127	0.172
+2	Esch_coli_SCU-104.fa.gz	49924	6842	21260	0.539	174.169	78.942	0.433	0.539	0.923	54.279	4.754	0.063	0.068
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1081_straingst	1281820371	76299916	96336	117.197	88.08									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SBF45.fa.gz	45706	45664	96336	0.973	195.612	189.427	0.77	0.973	0.624	37.656	67.81	0.443	0.709
+1	Esch_coli_SCU-104.fa.gz	49924	17145	51901	0.803	107.885	78.851	0.572	0.803	0.77	29.724	11.589	0.228	0.296
+2	Esch_coli_AH04.fa.gz	46945	10145	38132	0.707	24.64	16.348	0.159	0.707	0.661	20.7	1.378	0.037	0.056
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1083_straingst	1657774988	64169861	62460	244.209	92.01									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_DE17.fa.gz	48345	48316	62460	0.938	297.138	273.544	0.883	0.938	0.918	92.01	81.253	0.669	0.729
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1084_straingst	1622706830	60207713	74464	176.703	81.087									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44735	74464	0.949	240.325	225.813	0.775	0.949	0.821	14.268	62.848	0.543	0.662
+1	Esch_coli_P15-385.fa.gz	47999	15023	32028	0.764	120.222	85.933	0.466	0.764	0.871	32.507	8.5	0.181	0.208
+2	Esch_coli_VR50.fa.gz	48478	5275	20555	0.436	195.105	79.227	0.284	0.436	0.772	34.312	2.765	0.018	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1085_straingst	1539997665	61415653	58480	206.719	78.5									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC299.fa.gz	47757	47734	58480	0.838	245.587	200.801	0.812	0.838	0.891	78.5	63.757	0.425	0.477
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1090_straingst	1809030362	65493806	61899	258.848	88.569									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_ATCC_8739.fa.gz	46447	46378	61899	0.928	342.814	314.43	0.921	0.928	0.942	88.569	81.577	0.694	0.737
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1092_straingst	2038225355	77484841	99802	179.039	87.667									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45146	99802	0.958	341.879	324.639	0.828	0.958	0.925	58.091	72.553	0.673	0.728
+1	Esch_coli_UPEC-774U_190308.fa.gz	49071	24511	56547	0.951	39.407	36.995	0.298	0.951	0.575	8.284	4.508	0.148	0.257
+2	Esch_coli_P15-385.fa.gz	47999	11250	33229	0.655	58.438	35.776	0.199	0.655	0.964	21.291	2.113	0.054	0.056
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1093_straingst	1781703382	75944266	96908	162.56	88.417									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Z0117EC0056.fa.gz	50477	50359	96908	0.954	261.666	246.059	0.798	0.954	0.791	56.898	70.576	0.548	0.694
+1	Esch_coli_G6_7.fa.gz	50857	23536	48852	0.862	79.142	64.283	0.505	0.862	0.442	16.932	9.012	0.143	0.324
+2	Esch_coli_600468.fa.gz	47174	9950	28563	0.577	76.964	43.404	0.281	0.577	0.909	14.587	2.482	0.049	0.054
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1098_straingst	1115088961	65961743	109157	81.665	79.943									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45136	109157	0.968	145.305	139.364	0.712	0.968	0.869	13.36	56.908	0.56	0.645
+1	Esch_coli_U1.fa.gz	51721	25079	65485	0.922	55.489	49.472	0.5	0.922	0.818	23.06	11.506	0.32	0.391
+2	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	11147	42363	0.874	13.305	11.255	0.101	0.874	0.5	3.502	1.162	0.034	0.067
+3	Esch_coli_G6_7.fa.gz	50857	7127	32623	0.41	117.254	41.888	0.296	0.41	1.034	40.021	3.069	0.02	0.02
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1099_straingst	1970934711	73980946	116469	155.426	91.846									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC11023.fa.gz	45959	45879	116469	0.941	371.919	345.456	0.887	0.941	0.926	86.508	81.463	0.684	0.739
+1	Esch_coli_CFSAN061768.fa.gz	48567	21697	73299	0.881	33.625	28.911	0.314	0.881	0.473	3.758	3.26	0.101	0.214
+2	Esch_fergusonii_RHB19-C05.fa.gz	45359	33472	54193	0.872	10.971	9.547	0.228	0.872	0.745	1.58	1.625	0.113	0.151
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1103_straingst	1162187438	65082870	93032	113.165	90.588									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45758	93032	0.98	215.082	208.805	0.916	0.98	0.762	85.632	82.982	0.657	0.862
+1	Esch_fergusonii_EF91.fa.gz	43657	33686	48193	0.799	12.181	9.716	0.371	0.8	0.925	4.956	2.823	0.175	0.19
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1104_straingst	1698248295	86915059	81167	193.876	92.662									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Nissle_1917.fa.gz	49570	49524	81167	0.953	294.186	276.376	0.882	0.953	0.934	37.742	81.722	0.712	0.762
+1	Esch_coli_EcPF14.fa.gz	50028	4908	33991	0.466	260.434	115.597	0.32	0.466	0.931	54.92	3.504	0.03	0.032
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1108_straingst	1080917859	52043130	83888	117.235	90.984									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LH09-a.fa.gz	45993	45929	83888	0.951	196.429	185.283	0.872	0.951	0.827	57.12	79.383	0.621	0.751
+1	Esch_coli_EcPF16.fa.gz	45542	13297	40205	0.874	58.204	48.721	0.54	0.874	0.379	20.33	6.261	0.137	0.361
+2	Esch_coli_LD27-1.fa.gz	45656	6750	28578	0.552	27.196	14.144	0.176	0.552	0.799	13.533	0.938	0.024	0.03
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1109_straingst	1255475682	79715310	103332	90.104	74.16									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	47842	103332	0.957	142.721	134.208	0.702	0.957	0.619	36.446	52.065	0.381	0.616
+1	Esch_coli_2011C-3911.fa.gz	47705	20930	57532	0.884	72.777	62.837	0.485	0.884	0.778	21.241	10.722	0.26	0.335
+2	Esch_coli_88-3493.fa.gz	48886	12136	39035	0.476	49.015	22.925	0.198	0.476	0.857	16.472	2.253	0.018	0.021
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1111_straingst	1150405014	58881159	93690	108.739	88.558									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EcPF20.fa.gz	47166	47095	93690	0.953	162.152	152.265	0.714	0.953	0.786	32.429	63.234	0.485	0.617
+1	Esch_coli_SaT040.fa.gz	49932	26239	48828	0.941	74.112	69.027	0.628	0.941	0.806	15.658	15.899	0.421	0.522
+2	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	10158	24149	0.555	58.184	31.036	0.302	0.555	4.299	40.471	2.851	0.012	0.052
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1119_straingst	1359547747	67114062	71530	152.058	80.003									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G6_7.fa.gz	50857	50802	71530	0.935	201.921	181.981	0.882	0.935	0.519	58.445	70.578	0.375	0.722
+1	Esch_coli_ML35.fa.gz	47425	7354	24009	0.625	88.617	52.189	0.318	0.625	0.116	21.557	2.994	0.009	0.077
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+A1120_straingst	1523839400	80454170	78900	152.898	79.166									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CIT.fa.gz	45466	45394	78900	0.969	230.387	220.363	0.84	0.969	0.62	15.721	66.479	0.473	0.763
+1	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	10057	34929	0.632	155.982	95.974	0.513	0.632	0.739	27.769	6.509	0.096	0.13
+2	Esch_coli_EA7.fa.gz	44692	5496	28570	0.616	67.733	39.976	0.244	0.616	0.551	21.753	1.505	0.031	0.057
+3	Esch_coli_Res13-Lact-EB12-05.fa.gz	46223	3572	25184	0.554	63.479	34.429	0.176	0.554	0.49	13.923	0.824	0.015	0.03
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1004_straingst	3259961835	119140580	73400	371.848	83.724									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VR50.fa.gz	48478	48402	73400	0.975	539.661	517.953	0.933	0.975	0.82	83.724	78.126	0.709	0.865
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1005_straingst	1648896445	67373486	66186	133.322	53.515									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	45701	66186	0.951	170.565	158.769	0.84	0.951	0.892	16.528	44.942	0.644	0.722
+1	Esch_coli_EC2.fa.gz	49867	9515	22739	0.725	65.319	44.753	0.319	0.725	0.512	36.986	2.733	0.062	0.121
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1009_straingst	799458131	41843875	84093	65.253	68.638									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_14EC033.fa.gz	45189	45143	84093	0.957	83.946	79.527	0.661	0.957	0.489	33.324	45.37	0.283	0.58
+1	Esch_coli_NCTC9087.fa.gz	45206	16241	40885	0.89	45.07	39.695	0.35	0.89	0.769	13.607	8.151	0.19	0.247
+2	Esch_coli_442_2.fa.gz	47236	10538	26427	0.675	49.848	32.604	0.293	0.675	0.94	21.707	4.436	0.085	0.09
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1011_straingst	1147620538	57729570	95167	110.331	91.493									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_STEFF_16.fa.gz	46675	46615	95167	0.947	199.559	186.776	0.839	0.947	0.921	45.942	76.736	0.655	0.712
+1	Esch_coli_UPEC-774U_190308.fa.gz	49071	24878	51038	0.986	18.321	17.766	0.265	0.986	0.501	3.753	3.917	0.128	0.255
+2	Esch_coli_GSH8M-2.fa.gz	45888	9695	26503	0.561	50.867	27.807	0.222	0.561	0.662	41.798	2.409	0.026	0.039
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1019_straingst	1862093383	71422684	84744	197.742	89.993									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Z0117EC0056.fa.gz	50477	50414	84744	0.947	239.737	223.297	0.683	0.947	0.617	41.843	61.47	0.358	0.58
+1	Esch_coli_2018-02-2CC.fa.gz	44497	18712	36999	0.83	203.117	167.076	0.594	0.83	0.899	48.15	16.94	0.305	0.34
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1020_straingst	1489180319	56321774	74829	183.881	92.397									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_DEC5E.fa.gz	53677	53632	74829	0.962	247.778	231.759	0.93	0.962	0.858	92.397	85.888	0.711	0.829
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1021_straingst	3148921965	108980037	88650	319.476	89.94									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S50.fa.gz	46646	46557	88650	0.962	554.323	522.912	0.876	0.962	0.985	77.72	78.804	0.768	0.779
+1	Esch_coli_SCU-105.fa.gz	50553	24667	43884	0.716	48.317	33.872	0.243	0.716	0.183	12.22	2.711	0.016	0.089
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1024_straingst	4255001414	144102176	97593	395.044	90.608									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_RIVM_C018249.fa.gz	48626	48558	97593	0.963	642.898	608.096	0.779	0.963	0.734	67.758	70.622	0.511	0.695
+1	Esch_coli_S50.fa.gz	46646	20448	50852	0.92	263.634	235.519	0.583	0.92	1.138	22.85	11.652	0.398	0.454
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1030_straingst	1661660302	64668925	93368	157.781	88.656									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EcPF7.fa.gz	49054	48968	93368	0.983	206.042	200.31	0.673	0.983	0.571	28.916	59.662	0.365	0.638
+1	Esch_coli_H2_GCF_001900795.1.fa.gz	43749	20928	45253	0.918	148.808	133.069	0.593	0.918	0.687	17.791	17.203	0.315	0.459
+2	Esch_coli_ATCC_8739.fa.gz	46447	7238	26043	0.483	126.379	59.387	0.226	0.483	0.884	41.949	2.661	0.023	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1031_straingst	1719968824	72078706	62880	244.187	89.272									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_81.fa.gz	46235	46176	62880	0.914	318.158	284.908	0.875	0.914	1.017	89.272	78.079	0.657	0.668
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1033_straingst	1224850756	60057361	89393	114.952	83.895									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	47857	89393	0.95	182.755	170.685	0.809	0.95	0.768	59.496	67.856	0.533	0.694
+1	Esch_coli_NCTC9087.fa.gz	45206	18906	43915	0.917	54.377	49.419	0.48	0.917	0.832	18.524	7.699	0.308	0.371
+2	Esch_coli_SC475.fa.gz	46535	9575	26572	0.857	16.341	13.739	0.131	0.857	0.747	5.875	1.095	0.062	0.083
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1034_straingst	1839228640	65898234	86309	178.045	83.551									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	45697	86309	0.946	279.027	258.538	0.785	0.946	0.828	63.555	65.567	0.55	0.664
+1	Esch_coli_DE17.fa.gz	48345	24401	43090	0.671	71.076	47.17	0.352	0.671	0.795	19.996	6.33	0.085	0.106
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1038_straingst	2215057675	82853737	106351	191.124	91.764									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45156	106351	0.978	317.763	307.467	0.69	0.978	0.676	7.404	63.321	0.435	0.645
+1	Esch_coli_STEC299.fa.gz	47757	24462	62211	0.794	146.225	111.728	0.451	0.794	0.811	27.091	12.817	0.183	0.225
+2	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	7911	42795	0.663	211.164	135.433	0.32	0.663	1.408	35.397	5.002	0.066	0.093
+3	Esch_coli_SCU-104.fa.gz	49924	6179	37548	0.491	161.621	66.713	0.208	0.491	0.891	21.871	2.212	0.022	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1042_straingst	1408104228	94579194	98790	122.368	85.851									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_OSUCMP42NDM.fa.gz	47339	47273	98790	0.955	189.303	177.966	0.707	0.955	0.606	39.12	60.716	0.374	0.617
+1	Esch_coli_RIVM_C018249.fa.gz	48626	21641	53627	0.848	93.883	77.513	0.487	0.848	0.659	26.415	12.234	0.196	0.297
+2	Esch_coli_BEC1-S17-ESBL-09.fa.gz	49682	13506	35278	0.562	80.544	43.328	0.337	0.562	0.883	20.316	4.343	0.053	0.06
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1045_straingst	1506541750	71928387	108966	94.236	68.16									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BL21_TaKaRa.fa.gz	44349	44284	108966	0.978	177.251	171.879	0.748	0.978	0.699	31.096	50.964	0.489	0.7
+1	Esch_coli_str_TO60.fa.gz	49207	25493	65649	0.963	46.215	43.321	0.438	0.963	0.718	14.502	7.531	0.281	0.391
+2	Esch_coli_EM10-18-28.fa.gz	48410	15191	41099	0.864	17.664	15.015	0.159	0.864	0.678	5.013	1.539	0.07	0.103
+3	Esch_coli_MB19.fa.gz	46620	6909	27969	0.655	49.976	31.024	0.185	0.655	0.702	17.549	1.5	0.036	0.052
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1048_straingst	1271219406	61075116	59752	188.791	88.739									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2017_11_01CC.fa.gz	46241	46205	59752	0.935	237.517	219.318	0.909	0.935	0.892	88.739	80.699	0.663	0.743
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1049_straingst	1572201376	59750416	76803	177.161	86.544									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S50.fa.gz	46646	46598	76803	0.968	207.619	196.419	0.688	0.968	0.434	26.255	59.567	0.271	0.624
+1	Esch_coli_SCU-104.fa.gz	49924	17455	31696	0.737	215.716	147.203	0.654	0.737	0.948	60.29	17.641	0.248	0.261
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1050_straingst	1337466962	58100605	85774	128.921	82.679									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TUM20902.fa.gz	48117	48065	85774	0.931	191.003	175.363	0.773	0.931	0.898	66.882	63.907	0.56	0.624
+1	Esch_coli_str_TO60.fa.gz	49207	24221	41024	0.947	39.372	36.388	0.36	0.947	0.706	15.797	6.756	0.216	0.306
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1051_straingst	1462873741	56851856	81655	167.781	93.652									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46829	81655	0.966	275.553	263.49	0.909	0.966	0.924	67.03	85.171	0.756	0.819
+1	Esch_coli_EcPF16.fa.gz	45542	13410	36439	0.872	42.232	35.469	0.398	0.872	0.585	11.875	3.376	0.155	0.264
+2	Esch_coli_NCTC11023.fa.gz	45959	6606	24744	0.655	35.971	23.244	0.209	0.655	1.383	14.748	1.065	0.042	0.059
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1053_straingst	1664060330	92903928	113626	111.924	76.425									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_14EC033.fa.gz	45189	45111	113626	0.958	225.728	215.072	0.767	0.958	0.732	57.074	58.645	0.494	0.675
+1	Esch_coli_FDAARGOS_1291.fa.gz	49068	22750	70393	0.944	67.933	61.786	0.493	0.944	0.8	10.466	8.764	0.331	0.414
+2	Esch_coli_EC-1639.fa.gz	49632	9630	48926	0.845	40.968	34.394	0.222	0.845	0.622	6.226	2.004	0.084	0.134
+3	Esch_coli_Eco-15.fa.gz	47000	16355	40785	0.95	8.24	7.745	0.11	0.95	0.758	2.659	0.769	0.071	0.094
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1055_straingst	2875897424	132143518	92340	240.456	77.206									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Z0117EC0005.fa.gz	47656	47582	92340	0.967	388.256	372.448	0.804	0.967	0.815	59.291	62.089	0.592	0.726
+1	Shig_sp._PIB.fa.gz	46795	23695	46349	0.747	105.909	78.343	0.431	0.747	0.864	17.915	6.52	0.155	0.18
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1057_straingst	1179570415	101586535	64239	143.699	78.258									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0374.fa.gz	47293	47252	64239	0.923	200.524	180.568	0.947	0.923	0.966	78.258	74.126	0.719	0.744
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1058_straingst	1514692799	75694926	82483	97.862	53.291									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CE10.fa.gz	51351	51279	82483	0.97	123.85	117.877	0.763	0.97	0.652	22.927	40.651	0.453	0.695
+1	Esch_coli_Z0117EC0056.fa.gz	50477	20119	32767	0.896	68.568	60.073	0.646	0.896	0.951	30.365	8.16	0.441	0.464
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1060_straingst	1342839218	62081552	84818	140.109	88.497									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR435.fa.gz	47069	46964	84818	0.985	214.846	208.42	0.836	0.985	0.885	61.979	73.996	0.706	0.799
+1	Esch_coli_str_TO60.fa.gz	49207	25379	38569	0.96	57.067	53.604	0.714	0.96	0.892	26.518	10.353	0.563	0.631
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1062_straingst	1686291729	66918487	64445	222.858	85.17									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_RIVM_C029020.fa.gz	51218	51180	64445	0.959	261.476	245.336	0.894	0.959	0.923	85.17	76.131	0.728	0.789
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1064_straingst	1830829390	62155429	63003	243.24	83.704									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SCU-172.fa.gz	49745	49656	63003	0.91	287.676	256.702	0.848	0.91	0.892	83.704	70.997	0.57	0.639
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1066_straingst	1916398133	82229748	75696	210.187	83.022									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_53.fa.gz	47777	47702	75696	0.97	321.772	308.405	0.936	0.97	0.952	44.993	77.668	0.812	0.853
+1	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	12941	29439	0.379	79.994	29.188	0.382	0.379	5.239	38.029	2.046	0.004	0.021
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1069_straingst	1850094116	71599103	90935	187.346	92.084									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1190.fa.gz	48261	48203	90935	0.929	301.701	277.989	0.793	0.929	0.837	52.181	73.031	0.532	0.636
+1	Esch_coli_NCTC86EC.fa.gz	49537	22466	46151	0.742	103.596	73.081	0.49	0.742	1.206	32.885	9.328	0.166	0.2
+2	Esch_coli_NCTC9082.fa.gz	48890	11071	29492	0.541	74.403	39.499	0.248	0.541	2.136	7.018	2.409	0.018	0.039
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1075_straingst	906427832	41308758	57418	142.204	90.08									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SCU-104.fa.gz	49924	49895	57418	0.882	165.718	140.081	0.893	0.882	0.888	90.08	80.418	0.543	0.612
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1076_straingst	1696034476	68458831	105838	145.312	90.68									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Eco-15.fa.gz	47000	46945	105838	0.989	215.075	210.876	0.65	0.989	0.357	18.35	58.902	0.224	0.629
+1	Esch_coli_MB19.fa.gz	46620	22645	59389	0.867	164.31	138.392	0.598	0.867	0.795	28.557	19.015	0.31	0.39
+2	Esch_coli_DE17.fa.gz	48345	11100	39761	0.791	104.626	82.034	0.424	0.791	0.881	28.644	5.416	0.185	0.21
+3	Esch_coli_MDR_56.fa.gz	48219	11955	30981	0.764	22.381	16.382	0.164	0.764	0.606	15.128	1.205	0.044	0.073
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1080_straingst	1381985155	52379023	62902	196.557	89.464									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S50.fa.gz	46646	46587	62902	0.949	242.634	225.465	0.868	0.949	0.924	47.316	77.626	0.685	0.742
+1	Esch_coli_600468.fa.gz	47174	4305	18688	0.495	253.851	123.475	0.33	0.495	0.526	42.148	3.911	0.021	0.04
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1081_straingst	1350535062	54562291	76649	158.177	89.773									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45777	76649	0.926	231.764	211.902	0.811	0.926	0.875	69.057	72.778	0.564	0.645
+1	Esch_coli_14EC033.fa.gz	45189	16397	34240	0.916	46.462	42.242	0.304	0.916	0.614	20.716	5.165	0.143	0.233
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1083_straingst	1919328776	72961695	96956	177.268	89.548									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_DE17.fa.gz	48345	48295	96956	0.947	286.527	266.858	0.763	0.947	0.778	53.555	68.299	0.505	0.648
+1	Esch_coli_EcPF20.fa.gz	47166	23109	51205	0.91	95.452	84.89	0.492	0.91	0.868	17.124	10.461	0.322	0.371
+2	Esch_coli_HS30-1.fa.gz	43127	7884	30171	0.665	66.989	43.428	0.17	0.665	0.77	18.869	1.831	0.039	0.05
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1084_straingst	2100782673	76397853	61903	273.337	80.543									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Nissle_1917.fa.gz	49570	49534	61903	0.956	337.235	317.739	0.944	0.956	0.94	80.543	76.055	0.777	0.826
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1085_straingst	1943165831	73887322	96073	180.026	89.008									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CU37RT-2.fa.gz	48955	48882	96073	0.983	244.735	236.418	0.68	0.983	0.551	24.602	60.54	0.356	0.647
+1	Esch_coli_81.fa.gz	46235	22884	48005	0.892	191.463	165.492	0.707	0.892	0.776	38.876	20.123	0.39	0.502
+2	Esch_coli_Res13-Lact-EB12-05.fa.gz	46223	7679	27582	0.648	94.705	59.293	0.29	0.648	0.665	25.53	2.424	0.052	0.079
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1090_straingst	1633021015	77307420	88335	160.402	86.766									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9082.fa.gz	48890	48808	88335	0.93	251.391	228.964	0.805	0.93	0.708	33.509	69.861	0.458	0.647
+1	Esch_coli_30COLEC.fa.gz	45626	12102	42954	0.854	103.703	86.664	0.388	0.854	0.79	27.849	6.566	0.191	0.242
+2	Esch_coli_VR50.fa.gz	48478	8267	32614	0.74	51.274	36.469	0.186	0.74	0.602	25.408	1.922	0.045	0.075
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1092_straingst	1550639721	66763373	109925	130.981	92.853									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VCSW8.fa.gz	46034	45968	109925	0.954	261.777	247.847	0.797	0.954	0.773	28.119	74.008	0.534	0.691
+1	Esch_coli_UPEC-774U_190308.fa.gz	49071	24828	66086	0.953	34.05	31.939	0.276	0.953	0.375	5.158	5.197	0.09	0.239
+2	Esch_coli_81.fa.gz	46235	10393	42419	0.744	87.877	62.012	0.321	0.744	0.657	29.41	4.385	0.087	0.133
+3	Esch_coli_LD91-1.fa.gz	46577	4568	34682	0.497	154.188	76.072	0.244	0.497	0.742	30.166	2.256	0.022	0.03
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1093_straingst	1968948465	65085649	74795	210.781	80.07									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G6_7.fa.gz	50857	50792	74795	0.911	318.045	280.102	0.934	0.911	0.896	70.829	74.755	0.633	0.706
+1	Esch_coli_SCU-105.fa.gz	50553	23425	28516	0.533	15.553	8.141	0.185	0.533	0.28	9.241	0.986	0.008	0.028
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1098_straingst	1336776216	51412812	57882	197.96	85.716									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Res13-Lact-EB12-05.fa.gz	46223	46179	57882	0.921	235.926	214.04	0.876	0.921	0.888	85.716	75.062	0.608	0.684
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1099_straingst	2139508761	72002238	64125	308.554	92.479									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC11023.fa.gz	45959	45908	64125	0.927	424.755	387.159	0.913	0.927	0.93	92.479	84.454	0.675	0.727
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1103_straingst	1612819786	61959567	74604	200.907	92.933									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45786	74604	0.978	283.624	274.211	0.848	0.978	0.657	60.348	78.782	0.522	0.794
+1	Esch_coli_LH09-a.fa.gz	45993	12835	29805	0.897	95.582	84.285	0.482	0.897	0.814	32.586	6.827	0.284	0.349
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1104_straingst	2100367076	81586744	66212	269.849	85.067									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_FDAARGOS_348.fa.gz	50818	50720	66212	0.958	350.991	328.76	0.954	0.958	0.882	85.067	81.158	0.739	0.838
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1108_straingst	1507988686	66620530	98827	130.013	85.205									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC10973.fa.gz	45616	45563	98827	0.958	219.239	207.689	0.745	0.958	0.768	45.708	63.478	0.504	0.656
+1	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	21473	55165	0.936	38.71	35.181	0.237	0.936	0.256	7.129	5.158	0.05	0.194
+2	Esch_coli_BEC1-S17-ESBL-07.fa.gz	45888	9221	35073	0.647	157.25	100.624	0.376	0.647	0.804	32.369	6.224	0.082	0.102
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1109_straingst	1734619051	79778696	99325	155.136	88.831									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LH09-a.fa.gz	45993	45920	99325	0.962	274.562	262.067	0.787	0.962	0.799	46.083	69.95	0.561	0.702
+1	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	21084	55132	0.921	91.385	81.632	0.542	0.921	0.789	30.51	10.23	0.334	0.423
+2	Esch_coli_H15.fa.gz	46628	5978	35714	0.774	44.29	34.134	0.137	0.774	0.407	12.238	1.182	0.026	0.063
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1110_straingst	1072246801	73221852	68666	125.764	80.539									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MB19.fa.gz	46620	46538	68666	0.919	178.039	160.912	0.882	0.919	0.875	57.1	70.997	0.598	0.684
+1	Esch_coli_EC-107.fa.gz	48963	9567	25908	0.516	65.685	31.389	0.317	0.516	0.75	23.438	3.023	0.033	0.043
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1111_straingst	1896717668	69114901	103869	169.622	92.889									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_190693.fa.gz	50189	50113	103869	0.964	318.401	301.308	0.873	0.964	0.938	79.308	81.135	0.735	0.784
+1	Esch_coli_str_TO60.fa.gz	49207	23678	55537	0.936	21.281	19.571	0.212	0.936	0.454	3.845	2.488	0.079	0.174
+2	Esch_coli_BE311.fa.gz	47354	15537	33364	0.766	25.998	19.681	0.176	0.766	8.314	9.736	1.63	0.009	0.079
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1119_straingst	1412527615	74202615	64434	189.108	86.264									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TUM20902.fa.gz	48117	48078	64434	0.953	231.278	217.102	0.87	0.953	0.92	31.885	75.026	0.693	0.753
+1	Esch_coli_FDAARGOS_1289.fa.gz	50469	4586	18612	0.528	207.016	105.07	0.316	0.528	0.798	54.379	3.548	0.037	0.046
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C1120_straingst	1518104307	64176679	63710	216.758	90.967									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC719.fa.gz	48838	48788	63710	0.914	289.253	260.759	0.934	0.914	0.752	90.967	85.004	0.538	0.714
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C2048_straingst	1631504253	60296445	61306	233.988	87.924									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MB19.fa.gz	46620	46574	61306	0.92	303.512	273.924	0.907	0.92	0.837	87.924	79.741	0.591	0.707
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C2068_straingst	1807595430	64242055	82454	188.492	85.981									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC299.fa.gz	47757	47704	82454	0.871	296.665	253.007	0.793	0.871	0.904	55.028	68.214	0.474	0.525
+1	Esch_coli_G6_7.fa.gz	50857	26841	40891	0.63	83.089	49.204	0.438	0.63	3.433	30.954	7.775	0.032	0.11
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C2084_straingst	1674277135	59629044	61027	244.603	89.157									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Nissle_1917.fa.gz	49570	49540	61027	0.956	297.561	280.158	0.944	0.956	0.95	89.157	84.201	0.785	0.826
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+C2111_straingst	1435767122	65129106	113099	103.229	81.316									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC10973.fa.gz	45616	45519	113099	0.978	212.923	206.26	0.812	0.978	0.831	22.957	66.01	0.631	0.759
+1	Esch_coli_SCU-105.fa.gz	50553	24186	68588	0.859	27.346	22.997	0.258	0.859	0.629	6.811	3.956	0.103	0.164
+2	Esch_coli_str_TO60.fa.gz	49207	19293	47815	0.771	17.048	12.923	0.156	0.771	0.363	2.289	1.767	0.026	0.071
+3	Esch_coli_TKEC21-17.fa.gz	45050	6242	32934	0.68	48.111	32.436	0.148	0.68	0.838	9.086	1.422	0.039	0.047
+4	Esch_coli_NMBU-W12E19.fa.gz	49731	5402	28690	0.473	110.607	46.621	0.241	0.473	1.164	40.173	1.969	0.022	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1004_straingst	3120540907	128914876	85859	316.536	87.092									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_STLIN_8.fa.gz	46231	46159	85859	0.952	533.407	502.159	0.863	0.952	0.434	44.496	75.127	0.323	0.745
+1	Esch_coli_Ecol_AZ147.fa.gz	46122	10298	41908	0.674	344.93	231.666	0.641	0.674	0.769	42.596	7.673	0.151	0.196
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1009_straingst	1619339095	66283756	63374	231.234	90.495									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC-7215.fa.gz	47391	47343	63374	0.946	277.456	259.244	0.848	0.946	0.874	90.495	76.732	0.628	0.718
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1011_straingst	1647429921	60529616	72115	193.93	84.892									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2017_01_04CC.fa.gz	44976	44924	72115	0.945	293.216	273.541	0.89	0.945	0.839	59.728	75.524	0.629	0.75
+1	Esch_coli_EC21Z-048.fa.gz	46411	13647	29682	0.802	68.077	50.64	0.483	0.802	0.772	25.164	4.523	0.192	0.249
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1021_straingst	2933520763	125956728	93717	271.098	86.608									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0061.fa.gz	45120	45064	93717	0.977	510.195	494.018	0.884	0.977	0.778	67.049	76.589	0.642	0.825
+1	Esch_coli_600468.fa.gz	47174	13674	49680	0.941	110.217	101.726	0.483	0.941	0.628	6.999	4.834	0.252	0.402
+2	Esch_coli_63-2.fa.gz	43909	5640	36813	0.948	63.996	59.854	0.225	0.948	0.723	9.112	1.166	0.139	0.192
+3	Esch_coli_EA2.fa.gz	46730	6094	31467	0.601	40.816	23.92	0.127	0.601	0.372	3.448	0.509	0.01	0.027
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1024_straingst	3664214149	139513219	97914	340.767	91.059									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_67.fa.gz	44642	44582	97914	0.967	663.98	637.337	0.858	0.967	0.681	27.661	78.154	0.529	0.777
+1	Esch_coli_BLK9.fa.gz	40898	6452	54784	0.947	268.307	252.828	0.347	0.947	0.681	11.199	4.473	0.2	0.294
+2	Esch_coli_GSH8M-2.fa.gz	45888	6881	48675	0.609	168.742	101.124	0.229	0.609	0.512	29.479	1.929	0.026	0.052
+3	Esch_coli_AR_0369.fa.gz	45081	5208	44486	0.586	112.698	63.802	0.144	0.586	0.728	22.719	0.939	0.021	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1030_straingst	1412724161	79817700	86152	134.306	81.903									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Eco-15.fa.gz	47000	46930	86152	0.992	182.707	179.593	0.735	0.992	0.727	49.342	60.184	0.521	0.716
+1	Esch_coli_NCTC10973.fa.gz	45616	21673	39617	0.907	83.126	74.529	0.532	0.907	0.943	32.562	11.564	0.374	0.397
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1042_straingst	1933696091	67940751	68633	253.593	90.008									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44728	68633	0.955	356.167	337.298	0.874	0.955	0.859	37.074	78.693	0.655	0.762
+1	Esch_coli_MB22.fa.gz	45712	8817	25909	0.448	173.426	76.226	0.313	0.448	0.923	52.935	3.546	0.026	0.028
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1045_straingst	775653682	32640272	58866	115.329	87.526									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46428	58866	0.947	145.687	136.022	0.943	0.947	0.931	87.526	82.553	0.745	0.8
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1049_straingst	1760679235	68590336	102348	159.081	92.474									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VCSW8.fa.gz	46034	45972	102348	0.971	271.495	261.62	0.744	0.971	0.584	12.096	68.831	0.398	0.681
+1	Esch_coli_AR_0061.fa.gz	45120	11523	57710	0.731	193.553	139.718	0.391	0.731	0.689	51.844	9.255	0.105	0.153
+2	Esch_coli_SA31-1.fa.gz	47640	6470	49291	0.706	95.986	66.474	0.173	0.706	0.517	17.782	2.49	0.031	0.061
+3	Esch_coli_Res13-Sevr-PER07-33.fa.gz	49217	14375	44723	0.554	55.851	30.564	0.213	0.554	0.535	10.752	2.528	0.019	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1057_straingst	1198164187	54031176	70727	152.58	90.067									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SBF45.fa.gz	45706	45669	70727	0.971	201.905	194.983	0.83	0.971	0.645	42.732	74.72	0.49	0.759
+1	Esch_coli_W_GCF_000258145.1.fa.gz	48082	9651	26386	0.683	122.526	81.878	0.439	0.683	0.808	47.335	6.744	0.113	0.14
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1058_straingst	2016362100	75965243	104074	179.949	92.88									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	48548	104074	0.982	296.782	289.244	0.756	0.982	0.661	40.216	70.201	0.474	0.717
+1	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	19245	56379	0.937	144.555	133.567	0.57	0.937	0.796	16.992	12.932	0.374	0.47
+2	Esch_coli_13C1079T.fa.gz	46468	9888	38340	0.793	52.995	41.173	0.211	0.793	2.089	9.137	2.061	0.051	0.106
+3	Esch_coli_NCTC9080.fa.gz	46384	4632	30497	0.626	100.225	61.928	0.188	0.626	0.881	26.535	1.442	0.041	0.046
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1060_straingst	1362625842	80057517	127316	93.997	87.825									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_JL05.fa.gz	46571	46496	127316	0.966	195.648	187.635	0.734	0.966	0.736	30.859	64.49	0.487	0.662
+1	Esch_coli_382634_2f.fa.gz	46453	23340	82401	0.965	51.94	49.739	0.368	0.965	0.594	12.071	8.588	0.197	0.331
+2	Esch_coli_U1.fa.gz	51721	18746	59870	0.871	41.472	34.978	0.337	0.871	0.711	11.691	4.971	0.158	0.223
+3	Esch_coli_NCTC9087.fa.gz	45206	7477	43538	0.873	69.89	60.228	0.342	0.873	0.811	30.488	3.347	0.185	0.228
+4	Esch_coli_SCU-102.fa.gz	47885	8697	37012	0.821	9.216	7.511	0.075	0.821	0.629	2.716	0.483	0.026	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1075_straingst	1575727573	61000780	90699	148.252	85.334									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1105.fa.gz	49651	49603	90699	0.913	259.411	233.953	0.873	0.913	0.862	55.233	74.523	0.572	0.664
+1	Esch_coli_BE311.fa.gz	47354	23291	45432	0.846	42.481	35.179	0.492	0.846	8.173	27.175	5.315	0.036	0.298
+2	Esch_coli_GDAR2-2.fa.gz	48349	10810	25719	0.54	29.318	15.504	0.198	0.54	2.402	2.926	1.087	0.013	0.031
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1076_straingst	1227496463	93150223	82208	120.143	80.462									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46402	82208	0.957	186.526	176.508	0.838	0.957	0.855	40.562	67.466	0.628	0.734
+1	Esch_coli_EcPF16.fa.gz	45542	13454	37810	0.849	42.053	34.31	0.301	0.849	0.507	14.701	3.912	0.093	0.184
+2	Esch_coli_H3_GCF_001900815.1.fa.gz	45610	5251	26390	0.726	64.777	46.783	0.222	0.726	0.796	25.199	2.013	0.068	0.085
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1093_straingst	1077068004	59700505	89503	102.766	85.397									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46826	89503	0.962	160.581	153.058	0.787	0.962	0.725	40.794	67.189	0.509	0.701
+1	Esch_coli_TKEC21-17.fa.gz	45050	12369	44437	0.8	96.728	76.618	0.488	0.8	0.82	35.484	8.883	0.204	0.249
+2	Esch_coli_600468.fa.gz	47174	5715	34546	0.785	26.656	20.626	0.119	0.785	0.514	9.12	1.11	0.03	0.057
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1098_straingst	2063682822	85218255	93039	153.289	69.109									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_19SZHZ886Rt.fa.gz	44396	44312	93039	0.961	249.077	235.763	0.743	0.961	0.709	28.658	51.38	0.467	0.659
+1	Esch_coli_CT02.fa.gz	46907	12673	50469	0.763	165.473	125.03	0.437	0.763	0.716	27.001	7.749	0.139	0.194
+2	Esch_coli_13P460A.fa.gz	46414	9816	40805	0.698	68.645	46.036	0.228	0.698	0.7	13.45	2.28	0.054	0.078
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+D1109_straingst	1964350191	80003221	84271	185.897	79.75									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Combat13F7.fa.gz	46252	46197	84271	0.95	291.891	273.606	0.818	0.95	0.488	29.885	65.215	0.342	0.701
+1	Esch_coli_13C1079T.fa.gz	46468	13309	40383	0.855	127.724	106.765	0.509	0.855	0.869	34.836	7.403	0.277	0.319
+2	Esch_coli_MB19.fa.gz	46620	6076	28998	0.673	91.831	57.886	0.268	0.673	0.53	15.029	1.912	0.043	0.082
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1004_straingst	3683023081	138813309	121047	274.405	90.187									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45150	121047	0.972	599.168	577.01	0.792	0.972	0.804	19.656	71.384	0.584	0.727
+1	Esch_coli_362.fa.gz	47856	21157	77168	0.952	105.396	98.968	0.307	0.952	0.475	5.468	5.763	0.125	0.264
+2	Esch_coli_Ec-RL2-1X.fa.gz	45849	7101	57029	0.863	201.327	167.485	0.257	0.863	0.52	43.478	3.349	0.086	0.165
+3	Esch_coli_P15-385.fa.gz	47999	9145	50902	0.726	143.723	94.632	0.267	0.726	0.812	21.585	2.591	0.083	0.102
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1005_straingst	1661495085	76915259	109857	138.029	91.264									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44737	109857	0.985	248.755	242.918	0.723	0.985	0.744	31.293	65.988	0.514	0.691
+1	Esch_coli_str_TO60.fa.gz	49207	25594	65782	0.947	113.929	105.121	0.658	0.947	0.852	10.865	16.628	0.477	0.56
+2	Esch_coli_BLK9.fa.gz	40898	4361	41532	0.952	62.966	59.417	0.182	0.952	0.816	12.033	1.574	0.128	0.157
+3	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	6295	37379	0.659	61.911	39.57	0.219	0.659	1.643	16.282	1.546	0.038	0.063
+4	Esch_coli_SaT040.fa.gz	49932	3519	33231	0.557	93.757	52.025	0.2	0.557	0.854	20.79	1.107	0.03	0.035
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1009_straingst	1167751363	53732620	74203	123.513	78.484									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CFSAN061772.fa.gz	45701	45660	74203	0.955	144.086	135.637	0.686	0.955	0.808	6.74	53.824	0.483	0.598
+1	Esch_coli_FORC_041.fa.gz	47790	14633	30581	0.663	135.785	88.608	0.457	0.663	0.853	21.769	11.278	0.114	0.133
+2	Esch_coli_EC2.fa.gz	49867	7130	20882	0.528	128.506	63.879	0.309	0.528	1.006	49.975	4.14	0.045	0.045
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1011_straingst	1442972457	63967318	81092	150.278	84.453									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G6_7.fa.gz	50857	50786	81092	0.948	218.78	200.4	0.864	0.948	0.762	41.481	72.984	0.561	0.736
+1	Shig_flexneri_SWHEFF_71.fa.gz	47498	14128	32955	0.753	82.632	60.127	0.531	0.753	0.852	30.055	6.095	0.194	0.227
+2	Esch_coli_SCU-104.fa.gz	49924	5043	22311	0.563	52.9	28.014	0.194	0.563	0.622	12.917	1.041	0.022	0.035
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1019_straingst	2061408917	65206394	59524	305.725	88.279									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2018-02-2CC.fa.gz	44497	44449	59524	0.899	381.59	339.666	0.838	0.899	0.874	88.279	73.952	0.532	0.608
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1020_straingst	2014576794	75216601	92001	200.062	91.364									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_DE17.fa.gz	48345	48290	92001	0.945	307.621	285.907	0.763	0.945	0.821	51.81	69.703	0.529	0.644
+1	Esch_coli_Ec-RL2-1X.fa.gz	45849	22095	46353	0.924	103.625	93.387	0.485	0.924	1.194	39.554	10.501	0.32	0.382
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1021_straingst	3618499936	148541408	113844	255.339	80.334									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9082.fa.gz	48890	48793	113844	0.962	473.144	445.919	0.764	0.962	0.514	23.245	61.359	0.349	0.679
+1	Esch_coli_SCU-104.fa.gz	49924	14639	66918	0.82	242.207	185.013	0.423	0.82	0.576	49.751	8.031	0.134	0.233
+2	Esch_coli_STEC299.fa.gz	47757	20956	54920	0.756	33.489	24.71	0.134	0.756	0.499	7.338	1.467	0.029	0.058
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1030_straingst	1564093043	60317241	61115	210.803	82.369									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_P15-385.fa.gz	47999	47958	61115	0.9	250.848	219.869	0.84	0.9	0.938	82.369	69.218	0.574	0.612
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1031_straingst	1677334638	65356599	70753	216.17	91.184									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_81.fa.gz	46235	46183	70753	0.938	296.701	272.374	0.84	0.938	0.774	63.629	76.607	0.536	0.693
+1	Esch_coli_MB19.fa.gz	46620	10910	27445	0.706	148.597	100.854	0.468	0.706	0.777	27.556	6.825	0.128	0.165
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1033_straingst	1093909827	44417200	57178	160.355	83.816									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC1722-1.fa.gz	49207	49189	57178	0.931	191.624	174.629	0.957	0.931	0.909	83.816	80.189	0.701	0.771
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1034_straingst	1206673606	53458929	73608	145.37	88.677									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_81.fa.gz	46235	46174	73608	0.934	204.071	186.526	0.822	0.934	0.677	57.275	72.905	0.453	0.669
+1	Esch_coli_SCU-104.fa.gz	49924	13690	30499	0.693	104.71	65.105	0.522	0.693	0.891	31.402	8.231	0.155	0.174
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1038_straingst	1749112811	59444030	60452	241.713	83.54									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45170	60452	0.941	302.29	281.347	0.879	0.941	0.943	83.54	73.457	0.691	0.733
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1042_straingst	1776292159	73186715	96426	149.737	81.285									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2017_01_04CC.fa.gz	44976	44927	96426	0.956	182.033	171.803	0.541	0.956	0.615	12.917	44.01	0.291	0.473
+1	Esch_coli_STEC299.fa.gz	47757	24413	53481	0.769	181.318	134.528	0.514	0.769	0.899	52.912	19.173	0.211	0.234
+2	Esch_coli_2011C-3911.fa.gz	47705	11664	34698	0.794	65.636	50.723	0.189	0.794	1	15.456	3.424	0.095	0.095
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1045_straingst	1753998493	65224338	83397	165.667	78.769									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC299.fa.gz	47757	47701	83397	0.878	247.184	212.439	0.749	0.878	0.853	49.301	59.024	0.433	0.507
+1	Esch_coli_SCU-104.fa.gz	49924	25882	41514	0.783	76.261	55.982	0.446	0.783	2.586	29.468	8.816	0.083	0.215
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1049_straingst	1765225027	71144915	103331	149.102	87.28									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Nissle_1917.fa.gz	49570	49488	103331	0.951	267.416	251.092	0.817	0.951	0.86	45.245	71.278	0.604	0.702
+1	Esch_coli_U1.fa.gz	51721	25232	56280	0.904	54.149	47.496	0.437	0.904	0.877	21.432	6.994	0.283	0.322
+2	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	14345	33480	0.878	24.872	21.276	0.197	0.878	1.06	20.602	1.774	0.126	0.133
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1051_straingst	1036656334	50787661	71104	134.914	92.537									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Ecol_AZ147.fa.gz	46122	46041	71104	0.924	187.418	171.422	0.831	0.924	0.816	32.995	76.896	0.534	0.655
+1	Esch_coli_f9610206-5e81-11e8-bf7f-3c4a9275d6c8.fa.gz	49059	16662	28571	0.662	86.432	54.444	0.588	0.662	0.964	59.542	9.19	0.164	0.17
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1053_straingst	1913841576	75431761	98705	154.142	79.497									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VR50.fa.gz	48478	48407	98705	0.959	244.516	229.813	0.746	0.959	0.478	33.082	59.311	0.314	0.658
+1	Esch_coli_Eco-15.fa.gz	47000	22235	52282	0.991	44.45	43.601	0.253	0.991	0.546	8.139	5.116	0.135	0.246
+2	Esch_coli_30COLEC.fa.gz	45626	7622	30253	0.655	210.207	135.342	0.364	0.655	1.009	38.276	5.486	0.102	0.102
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1057_straingst	1154533187	49158339	70171	152.109	92.45									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0069.fa.gz	45888	45856	70171	0.941	211.224	197.002	0.854	0.941	0.88	55.451	78.966	0.627	0.712
+1	Esch_coli_IBS28.fa.gz	48064	11423	27009	0.582	104.675	57.92	0.447	0.582	1.421	36.999	6.025	0.062	0.088
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1058_straingst	1235194917	54514077	73622	147.716	88.044									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CPww7.fa.gz	47344	47285	73622	0.945	204.419	189.751	0.84	0.945	0.674	59.883	73.924	0.477	0.708
+1	Shig_flexneri_STEFF_12.fa.gz	47258	14309	28954	0.802	59.898	45.324	0.394	0.802	0.694	28.161	5.563	0.141	0.203
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1060_straingst	2205637809	73526134	61208	305.784	84.857									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_STEC299.fa.gz	47757	47730	61208	0.849	371.784	308.349	0.805	0.849	0.894	84.857	68.318	0.441	0.493
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1062_straingst	1851434761	67907856	99590	161.715	86.987									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC10973.fa.gz	45616	45525	99590	0.956	324.117	307.096	0.876	0.956	0.902	64.86	76.182	0.69	0.765
+1	Esch_coli_SCU-172.fa.gz	49745	23980	56073	0.866	30.947	26.073	0.321	0.866	0.518	13.197	3.47	0.108	0.208
+2	Esch_coli_SCU-105.fa.gz	50553	16165	35313	0.898	11.442	10.067	0.122	0.898	0.405	8.93	0.897	0.036	0.088
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1064_straingst	1378123017	58086871	89919	135.87	88.651									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44746	89919	0.98	196.036	189.839	0.704	0.98	0.633	35.236	62.406	0.42	0.663
+1	Esch_coli_IDR1900005638-01-02.fa.gz	46294	13245	46048	0.765	200.057	151.057	0.56	0.765	0.945	47.171	14.701	0.237	0.25
+2	Esch_coli_13P477T.fa.gz	49177	20561	35921	0.737	24.986	17.779	0.238	0.737	0.46	6.244	2.748	0.044	0.095
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1066_straingst	1358174485	56508489	82452	143.012	86.82									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_53.fa.gz	47777	47700	82452	0.974	226.768	218.296	0.893	0.974	0.907	76.737	77.569	0.748	0.825
+1	Esch_coli_ST648.fa.gz	49723	22707	35994	0.932	26.056	23.974	0.439	0.932	0.867	10.083	4.06	0.308	0.355
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1069_straingst	1956898785	71648105	96270	180.108	88.604									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_RIVM_C019217.fa.gz	51128	51045	96270	0.975	264.637	254.044	0.76	0.975	0.657	40.684	67.328	0.463	0.705
+1	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	18311	46483	0.89	120.412	105.942	0.471	0.89	0.873	16.704	10.024	0.289	0.332
+2	Esch_coli_14EC007.fa.gz	48636	9441	30193	0.687	57.712	36.634	0.17	0.687	0.65	10.598	1.912	0.036	0.055
+3	Esch_coli_EC2.fa.gz	49867	6460	23710	0.488	128.611	59.397	0.222	0.488	0.878	20.619	2.072	0.023	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1080_straingst	1788315886	68006837	63741	242.386	86.394									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_71.fa.gz	47498	47452	63741	0.907	308.836	271.833	0.86	0.907	0.923	86.394	74.33	0.592	0.642
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1090_straingst	1306740779	74519006	96546	114.655	84.71									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	47863	96546	0.975	176.058	168.585	0.742	0.975	0.601	40.208	62.882	0.414	0.688
+1	Esch_coli_YJ6.fa.gz	45080	19182	49874	0.871	76.57	65.515	0.448	0.871	0.643	28.572	9.786	0.19	0.296
+2	Esch_coli_2012C-4502.fa.gz	48067	15510	33173	0.585	59.111	33.947	0.341	0.585	0.829	15.93	4.104	0.057	0.068
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1092_straingst	1260323284	49625744	58616	167.065	77.7									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G6_7.fa.gz	50857	50813	58616	0.905	198.09	172.725	0.93	0.905	1.007	77.7	72.275	0.685	0.689
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1093_straingst	1905246805	62342096	63062	263.367	87.172									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_E110019.fa.gz	49827	49763	63062	0.853	324.405	266.132	0.83	0.853	0.817	87.172	72.31	0.421	0.516
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1099_straingst	1599697878	66982230	80224	178.363	89.448									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC11023.fa.gz	45959	45902	80224	0.934	303.209	278.769	0.909	0.934	0.917	81.643	81.27	0.679	0.741
+1	Esch_coli_EV36.fa.gz	46541	12115	37347	0.448	69.428	30.568	0.288	0.448	0.589	7.805	2.355	0.015	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1104_straingst	1263581091	47654344	57938	201.469	92.378									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1190.fa.gz	48261	48232	57938	0.92	232.051	211.17	0.882	0.92	0.933	92.378	81.515	0.641	0.688
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1108_straingst	2055310331	81332951	105940	148.121	76.348									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BEC1-S17-ESBL-09.fa.gz	49682	49600	105940	0.979	221.76	212.186	0.687	0.979	0.531	16.842	52.419	0.343	0.645
+1	Esch_coli_NCTC9087.fa.gz	45206	18297	57357	0.909	174.022	156.913	0.589	0.909	0.927	11.119	14.086	0.41	0.443
+2	Esch_coli_FDAARGOS_1283.fa.gz	49577	19906	40720	0.627	33.366	20.438	0.206	0.627	1.065	2.904	2.028	0.048	0.051
+3	Esch_coli_G6_7.fa.gz	50857	7059	28229	0.465	144.028	59.466	0.294	0.465	0.9	45.484	2.3	0.027	0.03
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1109_straingst	1708542443	68465768	96145	161.611	90.943									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2011C-3911.fa.gz	47705	47646	96145	0.95	298.615	280.517	0.87	0.95	0.773	39.796	79.076	0.575	0.745
+1	Esch_coli_Z0117EC0056.fa.gz	50477	23262	50901	0.909	31.002	27.623	0.323	0.909	0.593	8.86	3.838	0.144	0.243
+2	Shig_flexneri_STEFF_22.fa.gz	47557	7740	29751	0.715	115.918	81.872	0.467	0.715	0.801	42.287	3.753	0.137	0.171
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1119_straingst	1690882871	67569920	77142	202.002	92.158									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_A11.fa.gz	46766	46706	77142	0.974	312.435	300.628	0.912	0.974	0.802	61.544	84.077	0.676	0.844
+1	Esch_coli_ML35.fa.gz	47425	14993	31640	0.867	41.38	33.544	0.394	0.867	2.243	30.614	3.183	0.115	0.257
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+O1120_straingst	1749333200	69957010	95092	133.678	72.666									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_N18-04097.fa.gz	46481	46419	95092	0.963	239.456	226.649	0.842	0.963	0.833	40.802	61.216	0.627	0.753
+1	Esch_coli_FDAARGOS_1291.fa.gz	49068	21586	50371	0.883	23.093	19.835	0.22	0.883	0.431	2.547	2.516	0.065	0.151
+2	Esch_coli_EC2.fa.gz	49867	7595	31310	0.532	196.516	100.041	0.508	0.532	1.112	29.316	4.538	0.069	0.076
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1004_straingst	2670589781	116436109	86265	268.627	86.772									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45158	86265	0.971	464.587	446.675	0.879	0.971	0.909	45.44	76.264	0.731	0.804
+1	Esch_coli_MB50.fa.gz	45692	7763	42426	0.678	101.908	67.99	0.191	0.678	0.737	10.57	2.009	0.044	0.06
+2	Esch_coli_PK8276.fa.gz	47779	9734	37162	0.51	81.151	39.424	0.177	0.51	0.416	30.762	1.508	0.01	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1005_straingst	1715967459	67548373	94705	162.467	89.666									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45162	94705	0.981	271.277	263.408	0.781	0.981	0.682	14.351	70.012	0.502	0.736
+1	Shig_flexneri_STEFF_16.fa.gz	46675	13204	50419	0.844	134.44	111.605	0.444	0.844	0.58	27.915	8.734	0.155	0.267
+2	Esch_coli_HKUOPY1.fa.gz	46918	6801	39271	0.696	142.333	97.964	0.36	0.696	0.65	25.663	3.928	0.079	0.121
+3	Esch_coli_Combat13F7.fa.gz	46252	4476	34535	0.638	68.362	42.286	0.163	0.638	0.391	21.737	1.137	0.016	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1009_straingst	963816887	77641024	74232	83.261	64.127									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Combat13F7.fa.gz	46252	46198	74232	0.927	96.963	88.636	0.672	0.927	0.669	64.127	43.09	0.358	0.536
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1011_straingst	1146797818	66705979	64142	145.446	81.35									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MSHS_133.fa.gz	47992	47947	64142	0.97	182.851	172.93	0.912	0.97	0.709	81.35	74.179	0.59	0.833
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1019_straingst	1721722368	63729464	63227	248.351	91.202									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EFF60.fa.gz	49091	49046	63227	0.918	303.407	272.326	0.87	0.918	0.932	91.202	79.348	0.627	0.673
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1020_straingst	1108583407	58240336	71482	125.954	81.216									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Z0117EC0133.fa.gz	46428	46397	71482	0.975	145.953	140.013	0.733	0.975	0.426	27.338	59.56	0.29	0.68
+1	Esch_coli_NCTC9087.fa.gz	45206	12102	26243	0.744	142.202	104.579	0.534	0.744	0.937	53.877	11.556	0.206	0.22
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1021_straingst	3763279784	134423433	119210	281.769	89.257									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45151	119210	0.972	632.678	609.406	0.827	0.972	0.792	47.866	73.784	0.601	0.759
+1	Esch_fergusonii_EF91.fa.gz	43657	33793	75322	0.794	42.56	33.735	0.196	0.794	0.761	5.224	3.036	0.075	0.098
+2	Esch_coli_B379.fa.gz	46832	7489	48479	0.661	227.917	144.672	0.241	0.661	0.698	36.167	3	0.049	0.07
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1024_straingst	4166771200	127657838	76468	501.555	92.045									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13P460A.fa.gz	46414	46357	76468	0.941	778.059	717.386	0.885	0.941	0.883	46.671	81.448	0.651	0.737
+1	Esch_coli_LD22-1.fa.gz	46889	4513	32850	0.445	687.273	299.638	0.313	0.445	0.703	45.374	3.314	0.019	0.028
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1030_straingst	1663283784	61843752	86533	181.059	94.197									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_P15-385.fa.gz	47999	47938	86533	0.942	305.545	280.897	0.88	0.942	0.842	26.889	82.922	0.619	0.735
+1	Esch_coli_YSP8-1.fa.gz	45972	12938	41393	0.861	73.582	61.368	0.437	0.861	0.696	49.442	4.93	0.195	0.28
+2	Esch_coli_OSUCMP42NDM.fa.gz	47339	6363	30248	0.742	67.239	48.448	0.301	0.742	0.764	17.866	1.908	0.094	0.123
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1033_straingst	1215174990	56145000	119596	90.912	89.474									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2018-02-2CC.fa.gz	44497	44433	119596	0.958	180.589	171.564	0.707	0.958	0.654	40.666	63.254	0.406	0.621
+1	Esch_coli_2014C-3338.fa.gz	47265	22550	77033	0.886	104.203	91.036	0.653	0.886	0.775	27.98	17.135	0.352	0.455
+2	Esch_coli_20.fa.gz	50427	16931	57051	0.805	22.708	17.776	0.28	0.805	0.721	4.801	2.547	0.105	0.146
+3	Esch_coli_Quinolone_resistant_GCF_904711305.1.fa.gz	47293	7093	43424	0.7	38.854	26.99	0.243	0.7	0.756	10.18	1.587	0.063	0.083
+4	Esch_coli_162_2.fa.gz	45248	4376	38460	0.695	13.915	9.416	0.07	0.695	0.374	5.848	0.348	0.009	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1034_straingst	758649468	38569354	68794	96.985	87.945									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2018-18_25PC.fa.gz	45938	45885	68794	0.929	136.982	125.617	0.875	0.929	0.855	83.128	76.957	0.6	0.701
+1	Esch_coli_C21.fa.gz	46638	12984	26173	0.717	26.62	18.754	0.297	0.717	0.578	4.817	3.265	0.063	0.109
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1038_straingst	957036707	60903297	106060	72.517	80.364									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45145	106060	0.974	150.575	145.29	0.86	0.974	0.854	34.798	69.152	0.678	0.794
+1	Esch_coli_13C1079T.fa.gz	46468	13296	62108	0.905	23.915	21.147	0.268	0.905	0.603	9.761	3.008	0.12	0.199
+2	Esch_coli_J31.fa.gz	47399	5925	50070	0.607	65.012	38.498	0.298	0.607	0.688	28.416	2.442	0.046	0.066
+3	Esch_coli_135_GCF_019431185.1.fa.gz	51831	20820	46475	0.615	10.356	6.082	0.24	0.616	0.73	7.389	1.385	0.041	0.056
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1042_straingst	1328484302	53807500	82615	140.246	87.216									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_fEC_1.fa.gz	47007	46950	82615	0.975	200.018	192.475	0.79	0.975	0.515	28.964	68.886	0.377	0.731
+1	Esch_coli_NCTC10973.fa.gz	45616	12217	36862	0.912	104.291	93.224	0.477	0.912	0.819	38.178	8.748	0.297	0.362
+2	Esch_coli_M10.fa.gz	47289	5790	25718	0.569	80.719	45.536	0.209	0.569	0.882	20.073	2.001	0.034	0.038
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1045_straingst	1749641717	69937530	74603	208.271	88.805									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC475.fa.gz	46535	46490	74603	0.96	281.355	267.11	0.808	0.96	0.714	41.656	71.765	0.511	0.715
+1	Esch_coli_2018-11-3CC.fa.gz	44482	11689	29975	0.854	193.337	163.874	0.647	0.854	0.895	47.149	11.032	0.361	0.403
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1048_straingst	1402192832	63415821	79515	138.411	78.489									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC10973.fa.gz	45616	45565	79515	0.953	217.372	204.838	0.858	0.953	0.918	46.031	67.319	0.681	0.742
+1	Esch_coli_LD22-1.fa.gz	46889	13792	36090	0.836	41.062	33.615	0.302	0.836	0.698	10.068	3.375	0.123	0.176
+2	Esch_coli_KL53.fa.gz	46653	6466	24565	0.679	66.016	41.718	0.265	0.679	0.762	22.39	2.068	0.063	0.083
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1049_straingst	1833196527	68654259	61929	274.119	92.603									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_C2.fa.gz	47125	47074	61929	0.952	363.909	342.065	0.961	0.952	0.918	92.603	88.998	0.762	0.83
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1050_straingst	1053515471	48689921	71790	127.124	86.627									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45796	71790	0.925	178.886	163.064	0.83	0.925	0.886	54.828	71.891	0.581	0.656
+1	Esch_coli_WAT.fa.gz	47432	14336	29451	0.834	62.936	50.637	0.485	0.834	1.037	31.798	7.145	0.272	0.282
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1051_straingst	1119251863	54005170	74205	137.364	91.07									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H3_GCF_001900815.1.fa.gz	45610	45573	74205	0.967	187.081	179.03	0.808	0.967	0.728	25.263	73.627	0.532	0.73
+1	Esch_coli_NC19.fa.gz	47396	10932	30156	0.748	137.94	100.467	0.578	0.748	0.842	53.277	10.081	0.204	0.242
+2	Esch_coli_SC475.fa.gz	46535	5279	21976	0.744	40.553	29.933	0.193	0.744	0.698	12.531	1.424	0.056	0.08
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1053_straingst	1805056753	75271132	93106	165.126	85.173									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_67.fa.gz	44642	44572	93106	0.986	299.882	293.442	0.857	0.986	0.494	12.344	72.978	0.405	0.82
+1	Esch_coli_EA7.fa.gz	44692	7857	49179	0.758	119.497	88.597	0.323	0.758	0.481	44.205	3.944	0.068	0.141
+2	Esch_coli_XH988.fa.gz	46950	11355	43221	0.703	38.737	26.623	0.208	0.703	0.723	4.993	1.713	0.052	0.072
+3	Esch_coli_E706.fa.gz	45255	4287	35241	0.529	102.726	52.486	0.197	0.529	0.6	23.631	1.29	0.017	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1055_straingst	2307797710	104975608	93796	214.1	87.017									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45155	93796	0.976	406.431	392.728	0.892	0.976	0.871	38.554	77.579	0.721	0.828
+1	Esch_coli_H7.fa.gz	46920	7485	49745	0.799	134.019	104.412	0.368	0.799	0.435	8.713	3.473	0.082	0.188
+2	Esch_coli_Res13-Lact-PER04-33.fa.gz	45920	5488	43764	0.717	81.833	53.277	0.234	0.717	0.582	23.505	1.395	0.05	0.086
+3	Esch_coli_WP8-S17-ESBL-05.fa.gz	47199	10102	39831	0.648	34.736	22.017	0.216	0.648	2.595	6.2	0.985	0.023	0.059
+4	Esch_coli_CFSAN061761.fa.gz	48918	4590	33284	0.482	82.751	38.52	0.221	0.482	0.637	10.045	0.793	0.016	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1057_straingst	1626524910	65076661	67044	197.767	81.518									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_QA-1986_83.fa.gz	47143	47106	67044	0.95	263.825	248.169	0.89	0.95	0.786	55.482	72.559	0.6	0.762
+1	Shig_flexneri_STEFF_16.fa.gz	46675	8444	22310	0.725	96.138	67.716	0.404	0.725	0.796	26.036	3.619	0.123	0.154
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1058_straingst	1274091801	81312107	116682	94.473	86.519									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45777	116682	0.975	191.043	183.908	0.773	0.975	0.601	27.734	66.908	0.431	0.716
+1	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	23108	72060	0.971	54.408	52.304	0.489	0.971	0.731	13.081	9.582	0.327	0.447
+2	Esch_coli_13C1079T.fa.gz	46468	9721	49621	0.914	41.099	36.849	0.286	0.914	0.99	10.054	2.866	0.216	0.218
+3	Esch_coli_Combat13F7.fa.gz	46252	4582	40736	0.673	78.387	51.108	0.265	0.673	0.868	26.453	1.896	0.07	0.081
+4	Esch_coli_NDM1.fa.gz	47550	5150	37654	0.671	20.306	13.393	0.105	0.671	0.621	9.196	0.551	0.02	0.032
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1060_straingst	1499005853	64455964	80859	154.951	83.583									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2011C-3911.fa.gz	47705	47647	80859	0.942	246.691	229.897	0.884	0.942	0.582	49.498	73.872	0.43	0.739
+1	Esch_coli_QEC11-421.fa.gz	45116	12282	35971	0.827	27.641	21.957	0.193	0.827	0.726	34.086	1.874	0.079	0.109
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1062_straingst	1672811912	57937983	73339	175.462	76.926									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SJC33.fa.gz	47690	47641	73339	0.951	210.583	198.11	0.742	0.951	0.858	76.926	57.045	0.547	0.638
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1064_straingst	1035948398	47762822	83359	113.474	91.309									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H15.fa.gz	46628	46563	83359	0.974	175.744	169.837	0.843	0.974	0.581	28.035	76.966	0.453	0.78
+1	Esch_coli_MB19.fa.gz	46620	13245	37990	0.851	51.253	42.114	0.389	0.851	0.336	25.366	5.578	0.081	0.24
+2	Esch_coli_MSHS_472.fa.gz	47050	5971	26715	0.751	81.802	60.988	0.404	0.751	0.493	28.957	3.542	0.085	0.171
+3	Esch_coli_13C1079T.fa.gz	46468	3912	22229	0.664	30.104	19.658	0.145	0.664	1.074	8.951	0.755	0.039	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1066_straingst	2131233925	80917268	87917	215.521	88.906									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_STEFF_16.fa.gz	46675	46634	87917	0.97	359.108	343.813	0.858	0.97	0.513	30.054	76.247	0.402	0.784
+1	Esch_coli_SBF45.fa.gz	45706	7677	42666	0.816	202.627	163.812	0.47	0.816	0.747	30.932	5.955	0.191	0.255
+2	Esch_coli_027_SK3.fa.gz	45567	10188	36403	0.75	52.632	38.957	0.282	0.75	0.703	12.617	1.888	0.084	0.119
+3	Esch_coli_EC21Z-014.fa.gz	47495	4795	28757	0.62	54.296	31.371	0.157	0.62	0.536	15.303	0.758	0.02	0.038
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1068_straingst	1141159883	48992904	77475	134.181	91.098									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46835	77475	0.955	200.173	189.179	0.861	0.955	0.904	71.529	78.444	0.678	0.75
+1	Esch_coli_NCTC10973.fa.gz	45616	12511	32755	0.736	38.554	27.82	0.246	0.736	0.973	19.568	3.11	0.095	0.098
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1069_straingst	1573194610	57944417	63832	205.919	83.551									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_P15-25.fa.gz	49121	49093	63832	0.843	233.185	193.14	0.735	0.843	0.885	83.551	61.374	0.39	0.441
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1071_straingst	1763483960	62286347	66419	234.323	88.254									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	48523	66419	0.75	314.323	234.244	0.735	0.75	0.943	55.606	64.865	0.292	0.31
+1	Esch_coli_NCTC9080.fa.gz	46384	20128	30027	0.398	163.502	64.287	0.318	0.398	0.865	32.648	7.43	0.017	0.02
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1075_straingst	1596500113	78564896	84424	171.165	90.513									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1585m1.fa.gz	46840	46781	84424	0.954	260.091	243.375	0.804	0.954	0.837	46.676	72.744	0.585	0.699
+1	Esch_coli_Combat13F7.fa.gz	46252	12893	39772	0.791	88.376	68.268	0.318	0.791	0.466	43.837	5.647	0.073	0.157
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1076_straingst	1579379469	67888904	71868	198.003	90.099									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SBF45.fa.gz	45706	45669	71868	0.957	271.738	258.617	0.834	0.957	0.728	53.808	75.184	0.532	0.731
+1	Shig_flexneri_SWHIN_104.fa.gz	47104	9045	28170	0.757	123.811	91.217	0.36	0.757	0.615	36.292	5.368	0.096	0.156
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1080_straingst	1962462934	66887164	64359	246.354	80.792									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BLK9.fa.gz	40898	40850	64359	0.931	297.008	273.765	0.712	0.931	0.948	14.353	57.561	0.545	0.575
+1	Esch_coli_EC6563.fa.gz	47512	7877	26326	0.565	302.663	167.46	0.295	0.565	0.871	66.438	6.862	0.046	0.053
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1081_straingst	2041116243	74300579	86765	208.679	88.707									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MSHS_133.fa.gz	47992	47920	86765	0.967	331.31	313.462	0.848	0.967	0.871	44.912	75.23	0.668	0.767
+1	Esch_coli_1919D62.fa.gz	45416	19464	40418	0.812	54.089	42.976	0.311	0.812	0.828	17.652	4.189	0.138	0.167
+2	Esch_coli_64_1.fa.gz	49666	4850	24609	0.672	151.607	94.172	0.261	0.672	1.444	26.142	2.42	0.055	0.079
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1083_straingst	2002362515	73899237	92468	192.976	89.115									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_ECCHD184.fa.gz	46667	46588	92468	0.959	322.162	305.454	0.807	0.959	0.614	29.127	71.888	0.437	0.712
+1	Esch_coli_Sx181-0-1.fa.gz	46795	13214	47787	0.915	129.77	117.786	0.455	0.915	0.666	18.473	7.835	0.232	0.348
+2	Shig_flexneri_SWHIN_116.fa.gz	45696	8095	35698	0.822	45.44	36.928	0.161	0.822	0.614	13.141	1.51	0.055	0.089
+3	Esch_coli_MB22.fa.gz	45712	4671	29043	0.651	84.396	54.427	0.163	0.651	1.298	28.374	1.282	0.035	0.045
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1084_straingst	1661757017	67371569	74746	193.857	87.197									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_JL05.fa.gz	46571	46513	74746	0.945	283.021	265.359	0.858	0.945	0.892	70.937	74.846	0.646	0.724
+1	Esch_coli_NCTC9087.fa.gz	45206	11989	30800	0.887	45.875	40.127	0.238	0.887	1.307	16.26	2.935	0.127	0.166
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1085_straingst	1728191619	62190421	63744	255.839	94.366									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_JL05.fa.gz	46571	46523	63744	0.933	327.821	303.206	0.873	0.933	0.919	94.366	82.343	0.652	0.709
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1090_straingst	1451933174	56465354	58777	208.961	84.591									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45174	58777	0.952	251.932	237.121	0.882	0.952	0.964	84.591	74.644	0.735	0.762
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1092_straingst	1201757424	55884321	69634	136.922	79.338									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_STEFF_22.fa.gz	47557	47520	69634	0.939	174.199	162.436	0.815	0.939	0.803	48.425	64.671	0.541	0.675
+1	Esch_coli_M10.fa.gz	47289	9666	25019	0.716	84.537	58.99	0.332	0.716	0.741	30.912	4.871	0.091	0.122
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1093_straingst	1386064621	57642046	79668	150.437	86.468									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC467.fa.gz	46386	46333	79668	0.978	219.541	212.636	0.83	0.978	0.649	43.899	71.788	0.504	0.777
+1	Esch_coli_Combat13F7.fa.gz	46252	13007	34345	0.8	65.563	51.526	0.335	0.8	0.69	30.539	4.921	0.118	0.171
+2	Shig_flexneri_STEFF_10.fa.gz	47686	6141	23942	0.624	41.519	25.651	0.118	0.624	0.765	12.03	1.148	0.022	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1098_straingst	1947626775	79652589	107237	160.861	88.571									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9080.fa.gz	46384	46338	107237	0.962	282.616	268.915	0.731	0.962	0.591	33.751	64.705	0.385	0.651
+1	Esch_coli_SCU-105.fa.gz	50553	23921	62646	0.925	77.463	70.018	0.369	0.925	0.355	14.034	8.805	0.104	0.292
+2	Esch_coli_fEC_1.fa.gz	47007	9396	40508	0.661	231.751	150.74	0.491	0.661	0.685	32.919	7.393	0.097	0.142
+3	Esch_coli_FDAARGOS_1276.fa.gz	49679	10922	34295	0.821	25.703	20.509	0.154	0.821	0.616	7.867	1.184	0.053	0.086
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1099_straingst	1583978738	60226758	61559	240.316	93.395									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46421	61559	0.945	299.867	279.842	0.889	0.945	0.911	93.395	83.069	0.684	0.751
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1103_straingst	1546840864	62314130	84253	151.998	82.79									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BLK9.fa.gz	40898	40830	84253	0.952	220.279	208.063	0.668	0.952	0.908	13.773	55.325	0.523	0.576
+1	Esch_coli_P15-25.fa.gz	49121	24284	45403	0.744	66.079	47.726	0.281	0.744	0.553	26.464	7.714	0.064	0.115
+2	Esch_coli_EC6563.fa.gz	47512	5524	27346	0.497	209.447	102.247	0.188	0.497	1.001	42.553	3.717	0.023	0.023
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1104_straingst	789270493	67536523	72070	95.341	87.058									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_UMB200201_11.fa.gz	46275	46220	72070	0.976	139.666	134.975	0.917	0.976	0.804	73.061	79.835	0.686	0.853
+1	Esch_coli_FDAARGOS_348.fa.gz	50818	11797	26954	0.836	18.118	14.191	0.313	0.836	0.883	13.997	2.263	0.162	0.183
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1108_straingst	1210728902	56673095	83490	131.433	90.634									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46833	83490	0.971	212.006	203.787	0.878	0.971	0.785	42.139	79.621	0.631	0.804
+1	Esch_coli_N18-04097.fa.gz	46481	12767	38020	0.804	46.857	36.412	0.361	0.804	0.753	15.756	3.97	0.141	0.187
+2	Esch_coli_S56.fa.gz	46411	5090	27761	0.575	49.875	27.826	0.171	0.575	0.737	32.739	1.206	0.024	0.033
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1109_straingst	1589759366	70971201	94665	130.949	77.976									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BE2-5.fa.gz	45963	45903	94665	0.968	215.627	206.881	0.773	0.968	0.778	40.437	60.286	0.546	0.702
+1	Esch_coli_14EC033.fa.gz	45189	15984	50218	0.768	67.77	51.231	0.296	0.768	0.765	21.937	5.23	0.102	0.134
+2	Esch_coli_144.fa.gz	50235	18794	37949	0.652	47.967	30.511	0.297	0.652	0.92	15.601	3.7	0.076	0.082
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1110_straingst	1652094000	66299323	69609	224.379	94.539									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46427	69609	0.956	299.657	282.145	0.851	0.956	0.66	46.426	80.482	0.491	0.743
+1	Esch_coli_SBF45.fa.gz	45706	7943	25237	0.676	237.626	159.099	0.549	0.676	0.871	48.114	7.72	0.148	0.169
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1111_straingst	1736802049	75808486	127800	119.813	88.163									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_C2.fa.gz	47125	47030	127800	0.976	287.217	277.451	0.861	0.976	0.732	41.119	75.877	0.585	0.799
+1	Esch_coli_2018-02-2CC.fa.gz	44497	11923	81917	0.887	82.838	71.931	0.411	0.887	0.528	29.315	5.045	0.152	0.287
+2	Esch_coli_EC21Z-014.fa.gz	47495	5849	71339	0.752	49.855	35.157	0.174	0.752	0.594	10.28	1.263	0.044	0.074
+3	Esch_coli_DE17.fa.gz	48345	20684	66938	0.774	7.737	5.816	0.119	0.777	0.658	2.935	0.713	0.037	0.056
+4	Esch_albertii_Sample_165.fa.gz	45928	36757	50921	0.606	4.642	2.74	0.113	0.648	0.576	4.515	0.596	0.017	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1119_straingst	882278076	86305293	61900	100.814	70.73									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_027_SK3.fa.gz	45567	45527	61900	0.893	124.959	110.526	0.814	0.893	0.89	70.73	57.582	0.516	0.58
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P1120_straingst	1882872582	79151239	98153	158.737	82.748									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_WW1.fa.gz	47025	46960	98153	0.958	313.636	297.352	0.906	0.958	0.839	49.469	74.948	0.668	0.797
+1	Esch_coli_2018-11-3CC.fa.gz	44482	11816	53159	0.824	49.456	40.265	0.328	0.824	0.843	29.63	2.558	0.155	0.184
+2	Esch_coli_2013C-4282.fa.gz	49445	25921	43420	0.785	17.96	13.926	0.37	0.785	0.848	3.65	1.941	0.152	0.179
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2004_straingst	3628234343	133079872	92464	310.891	79.229									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC10973.fa.gz	45616	45551	92464	0.944	524.167	489.476	0.784	0.944	0.859	57.089	62.109	0.566	0.659
+1	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	9548	49473	0.683	119.133	78.79	0.125	0.683	0.622	22.14	2.14	0.025	0.04
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2005_straingst	983990131	47753146	93742	95.587	91.063									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SBF45.fa.gz	45706	45664	93742	0.972	160.442	155.166	0.795	0.972	0.608	34.142	72.363	0.444	0.729
+1	Esch_coli_HS30-1.fa.gz	43127	10893	49362	0.915	83.045	74.084	0.45	0.915	0.613	31.117	8.415	0.212	0.345
+2	Esch_coli_FDAARGOS_1337.fa.gz	46493	6323	39391	0.743	51.115	37.744	0.237	0.743	0.54	15.328	2.442	0.053	0.097
+3	Esch_coli_MB50.fa.gz	45692	4784	34691	0.692	24.495	16.644	0.105	0.692	0.274	10.476	0.824	0.01	0.035
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2009_straingst	1469930296	80364218	75108	95.089	48.587									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BLK9.fa.gz	40898	40829	75108	0.966	127.018	121.738	0.701	0.966	0.916	11.257	34.068	0.578	0.631
+1	Esch_coli_JL05.fa.gz	46571	15317	35683	0.844	46.748	38.959	0.283	0.844	0.497	8.308	4.113	0.085	0.171
+2	Esch_coli_EC6563.fa.gz	47512	5158	22749	0.481	114.02	53.882	0.185	0.481	1.012	29.022	1.924	0.02	0.021
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2011_straingst	1293413567	55277915	83871	141.629	91.839									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TKEC21-17.fa.gz	45050	45001	83871	0.947	231.138	216.885	0.829	0.947	0.776	42.459	76.165	0.547	0.705
+1	Esch_coli_HS30-1.fa.gz	43127	8807	41250	0.849	100.11	83.221	0.369	0.849	0.602	41.288	5.79	0.136	0.226
+2	Shig_flexneri_SWHIN_104.fa.gz	47104	10762	33770	0.801	32.622	25.578	0.22	0.801	0.533	8.092	2.175	0.06	0.113
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2020_straingst	931134922	55329639	102633	77.387	85.298									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_KKo009.fa.gz	47481	47420	102633	0.965	132.999	126.654	0.767	0.965	0.778	19.99	65.396	0.537	0.69
+1	Esch_coli_W5-6.fa.gz	45373	19969	56849	0.957	47.248	44.518	0.487	0.957	0.534	20.455	9.7	0.229	0.428
+2	Esch_coli_LD22-1.fa.gz	46889	10241	37733	0.826	27.765	22.385	0.247	0.826	0.924	11.909	2.524	0.129	0.14
+3	Esch_coli_13P477T.fa.gz	49177	3065	29269	0.599	81.843	48.054	0.21	0.599	0.924	32.944	1.614	0.042	0.045
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2024_straingst	4196232983	131085156	77014	502.086	92.149									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13P460A.fa.gz	46414	46357	77014	0.941	783.954	722.854	0.884	0.941	0.886	46.553	81.492	0.653	0.737
+1	Esch_coli_LD22-1.fa.gz	46889	4513	33394	0.444	697.496	303.187	0.312	0.444	0.638	45.595	3.329	0.017	0.027
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2030_straingst	1668665706	72724709	87536	136.742	71.733									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_PCN061.fa.gz	44693	44615	87536	0.918	238.123	215.575	0.815	0.918	0.878	54.612	58.435	0.553	0.63
+1	Esch_coli_Z0117EC0005.fa.gz	47656	26756	46587	0.828	35.279	28.852	0.352	0.828	0.626	17.121	4.685	0.125	0.2
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2031_straingst	1410243543	59071551	92043	144.067	94.029									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHIN_104.fa.gz	47104	47054	92043	0.973	230.102	221.766	0.794	0.973	0.574	33.381	74.699	0.42	0.732
+1	Esch_coli_KL53.fa.gz	46653	13603	46262	0.856	117.111	95.014	0.5	0.856	0.682	25.538	9.673	0.214	0.314
+2	Esch_coli_Combat11I9.fa.gz	49124	14937	34614	0.616	63.944	38.623	0.432	0.616	0.891	20.591	4.175	0.09	0.101
+3	Esch_coli_B379.fa.gz	46832	5834	25407	0.512	46.901	22.702	0.181	0.512	0.761	14.519	0.993	0.019	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2034_straingst	1124926449	49543778	76706	135.498	92.392									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_027_SK3.fa.gz	45567	45510	76706	0.955	208.973	198.015	0.874	0.955	0.815	39.312	80.734	0.62	0.761
+1	Esch_coli_PD7.fa.gz	45780	7636	33246	0.767	82.749	61.218	0.37	0.767	0.157	39.711	4.308	0.026	0.167
+2	Esch_coli_2018-11-3CC.fa.gz	44482	4295	27389	0.713	47.536	33.676	0.176	0.713	0.898	13.37	1.295	0.057	0.064
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2038_straingst	1890297559	69109904	85098	198.804	89.498									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46830	85098	0.937	252.584	234.103	0.655	0.937	0.8	41.375	58.616	0.431	0.538
+1	Esch_coli_135_GCF_019431185.1.fa.gz	51831	24588	41231	0.624	202.996	121.419	0.534	0.624	0.944	48.123	16.484	0.123	0.13
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2050_straingst	1386808193	60324722	77001	156.12	86.684									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_QA-1986_83.fa.gz	47143	47105	77001	0.964	225.825	215.628	0.853	0.964	0.886	24.651	73.932	0.676	0.764
+1	Esch_coli_1409.fa.gz	47484	13886	31599	0.697	37.512	25.754	0.205	0.697	0.71	8.074	2.619	0.049	0.07
+2	Shig_flexneri_STEFF_22.fa.gz	47557	3487	21918	0.515	147.149	75.292	0.188	0.515	0.654	53.959	1.907	0.017	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2051_straingst	1560430021	62272270	57492	224.007	82.532									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904711295.1.fa.gz	44803	44753	57492	0.933	281.082	259.635	0.912	0.933	0.928	26.78	75.234	0.688	0.741
+1	Esch_coli_D4.fa.gz	46526	4793	15726	0.391	233.255	85.987	0.384	0.391	0.782	55.752	2.804	0.018	0.023
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2053_straingst	1999391234	79285049	109334	165.732	90.628									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_67.fa.gz	44642	44542	109334	0.973	339.636	327.989	0.812	0.973	0.635	67.097	73.621	0.475	0.748
+1	Esch_coli_MB10.fa.gz	44714	7714	65994	0.847	132.524	111.274	0.255	0.847	0.248	4.906	4.332	0.038	0.155
+2	Esch_coli_EC50.fa.gz	46378	7133	59459	0.651	124.307	80.157	0.228	0.651	0.754	10.128	2.889	0.047	0.063
+3	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	19098	54813	0.602	31.132	18.548	0.183	0.602	0.625	2.987	1.79	0.025	0.04
+4	Esch_coli_NCTC9080.fa.gz	46384	3320	43317	0.621	100.547	61.84	0.13	0.621	0.524	5.51	1.036	0.016	0.031
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2057_straingst	1156549492	54977220	58794	185.758	94.431									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Sx181-0-1.fa.gz	46795	46772	58794	0.967	234.544	224.441	0.971	0.967	0.7	94.431	91.729	0.615	0.879
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2060_straingst	1222057948	52692658	75625	139.163	86.119									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46425	75625	0.961	186.818	176.925	0.792	0.961	0.649	14.724	68.184	0.455	0.702
+1	Esch_coli_CFSAN061772.fa.gz	45701	12035	31023	0.845	107.862	88.517	0.501	0.845	0.783	36.513	8.978	0.237	0.302
+2	Esch_coli_2011C-3911.fa.gz	47705	6580	20851	0.561	110.996	60.01	0.374	0.561	0.557	34.882	3.352	0.037	0.066
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2062_straingst	333228998	17862675	51239	61.205	94.113									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC475.fa.gz	46535	46492	51239	0.922	68.738	62.651	0.939	0.922	0.926	94.113	88.413	0.682	0.736
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2064_straingst	524203003	91995507	88977	44.17	74.973									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46398	88977	0.972	73.983	71.118	0.849	0.972	0.661	28.742	63.64	0.515	0.779
+1	Shig_flexneri_STLEFF_38.fa.gz	45286	12826	43885	0.887	24.896	21.27	0.476	0.887	0.574	21.964	5.4	0.191	0.332
+2	Esch_coli_Combat13F7.fa.gz	46252	7083	32514	0.683	15.598	10.44	0.243	0.683	0.711	24.267	1.439	0.055	0.077
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2066_straingst	1431795226	64131046	83742	142.384	83.277									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45163	83742	0.971	232.677	223.643	0.856	0.971	0.827	36.204	71.245	0.647	0.783
+1	Esch_coli_GDAR2-2.fa.gz	48349	14900	39901	0.835	72.312	59.036	0.522	0.835	0.724	25.363	6.286	0.221	0.305
+2	Esch_coli_2017_04_03CC.fa.gz	44500	4762	27454	0.732	60.706	43.449	0.257	0.732	0.662	17.642	1.478	0.067	0.101
+3	Esch_coli_M18.fa.gz	50116	8817	23967	0.57	22.228	12.162	0.183	0.57	1.958	4.068	0.78	0.017	0.034
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2068_straingst	1701033463	63823002	84852	174.771	87.18									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2017_04_03CC.fa.gz	44500	44434	84852	0.965	305.341	291.303	0.883	0.965	0.869	62.971	76.955	0.689	0.793
+1	Esch_coli_EC21Z-014.fa.gz	47495	14639	41981	0.853	48.2	38.962	0.346	0.853	0.64	10.927	3.539	0.138	0.215
+2	Esch_coli_EC50.fa.gz	46378	6514	29493	0.502	72.6	36.145	0.209	0.502	0.658	13.282	1.394	0.017	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2069_straingst	1742035722	71241367	93830	157.513	84.84									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_67.fa.gz	44642	44578	93830	0.973	268.357	259.287	0.788	0.973	0.695	22.095	66.845	0.505	0.727
+1	Esch_coli_13C1079T.fa.gz	46468	13750	50438	0.874	116.882	100.016	0.448	0.874	0.797	29.468	8.065	0.238	0.299
+2	Esch_coli_14EC033.fa.gz	45189	12631	38418	0.729	65.503	46.986	0.349	0.729	0.78	22.32	3.462	0.105	0.135
+3	Esch_coli_AR_0061.fa.gz	45120	4209	29212	0.767	46.954	35.571	0.134	0.767	0.417	10.957	0.87	0.025	0.061
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2071_straingst	1284376635	61511786	82789	132.368	85.323									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_STEFF_16.fa.gz	46675	46611	82789	0.959	196.664	186.585	0.802	0.959	0.512	19.388	68.451	0.362	0.708
+1	Esch_coli_EM20-18-50.fa.gz	43183	11113	38085	0.853	72.391	58.94	0.317	0.853	0.572	36.708	5.342	0.112	0.196
+2	Esch_coli_S56.fa.gz	46411	4740	28607	0.514	132.211	66.378	0.218	0.514	0.676	29.227	2.509	0.02	0.03
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2075_straingst	867780394	75108821	78363	90.488	81.713									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC475.fa.gz	46535	46495	78363	0.98	110.177	106.792	0.708	0.98	0.442	16.309	57.873	0.295	0.667
+1	Esch_coli_Combat13F7.fa.gz	46252	13057	32781	0.771	111.046	83.494	0.54	0.771	0.924	65.404	12.875	0.228	0.247
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2076_straingst	1826141095	65960371	63000	269.709	93.047									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC21Z-014.fa.gz	47495	47451	63000	0.938	340.099	312.01	0.891	0.938	0.906	93.047	82.936	0.668	0.737
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2080_straingst	1693331041	65712860	62237	205.846	75.657									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	45714	62237	0.942	237.172	218.138	0.797	0.942	0.897	75.657	60.304	0.597	0.666
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2085_straingst	2062975182	71891488	76518	257.752	95.603									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SCU-113.fa.gz	46910	46870	76518	0.907	390.595	350.725	0.841	0.907	0.734	35.014	80.445	0.46	0.627
+1	Esch_coli_HS30-1.fa.gz	43127	10560	34030	0.812	115.685	88.976	0.317	0.812	0.539	26.447	4.809	0.092	0.17
+2	Esch_coli_Res13-Lact-ER01-35.fa.gz	47311	5529	25455	0.438	348.226	150.948	0.395	0.438	0.734	34.141	4.092	0.024	0.033
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2090_straingst	862514181	45862313	81982	93.768	89.127									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45773	81982	0.96	151.223	143.555	0.864	0.96	0.826	43.634	77.029	0.631	0.764
+1	Esch_coli_S50.fa.gz	46646	14810	38048	0.881	42.401	35.605	0.53	0.881	0.703	14.24	6.411	0.255	0.362
+2	Esch_coli_MB19.fa.gz	46620	6155	25007	0.641	23.534	14.56	0.189	0.641	0.53	5.83	1.076	0.026	0.05
+3	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	5571	21064	0.506	27.83	13.447	0.197	0.506	1.799	25.423	0.909	0.014	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2092_straingst	1685657905	80510704	87065	165.958	85.718									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46404	87065	0.961	268.375	255.145	0.828	0.961	0.789	34.524	71.014	0.58	0.736
+1	Esch_coli_Combat13F7.fa.gz	46252	13095	42461	0.848	93.622	77.464	0.42	0.848	0.482	33.198	6.169	0.123	0.256
+2	Esch_coli_30COLEC.fa.gz	45626	6673	31353	0.673	49.268	31.895	0.154	0.673	0.597	17.996	1.314	0.028	0.047
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2093_straingst	1198929398	49106966	78351	135.668	88.66									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1500.fa.gz	46598	46541	78351	0.982	203.827	198.584	0.877	0.982	0.651	47.033	77.712	0.541	0.83
+1	Esch_coli_BLK9.fa.gz	40898	9518	32640	0.924	36.854	33.135	0.247	0.924	0.773	28.631	2.703	0.151	0.195
+2	Shig_flexneri_STEFF_10.fa.gz	47686	6444	23845	0.605	41.243	24.333	0.163	0.605	0.877	12.997	1.342	0.032	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2099_straingst	1443445933	61223384	71169	192.083	94.706									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BEC1-S17-ESBL-07.fa.gz	45888	45845	71169	0.916	260.356	235.937	0.8	0.916	0.831	51.754	75.758	0.511	0.615
+1	Esch_coli_SCU-113.fa.gz	46910	9269	29168	0.57	182.409	101.721	0.352	0.57	0.775	42.952	6.674	0.05	0.065
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2103_straingst	1840086465	67564415	63876	205.993	71.508									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_P15-25.fa.gz	49121	49081	63876	0.844	235.283	195.136	0.74	0.844	0.887	71.508	52.938	0.394	0.444
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2104_straingst	1580957766	65861790	97175	148.925	91.538									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC96.fa.gz	43198	43115	97175	0.975	279.713	268.029	0.813	0.975	0.563	24.348	74.391	0.424	0.754
+1	Esch_coli_EcPF15.fa.gz	47184	21806	55129	0.932	37.884	34.867	0.284	0.932	0.322	4.217	4.87	0.074	0.23
+2	Esch_coli_B379.fa.gz	46832	8092	34804	0.664	178.562	114.83	0.494	0.664	0.86	50.635	6.066	0.124	0.144
+3	Esch_coli_2018-06-4CC.fa.gz	46573	4908	29433	0.641	44.013	27.612	0.141	0.641	0.63	12.338	0.876	0.023	0.037
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2108_straingst	1728602789	65339199	59161	227.587	77.891									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45803	59161	0.917	274.957	248.392	0.858	0.917	0.9	77.891	66.84	0.596	0.663
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2109_straingst	1551443405	72640551	75518	170.969	83.221									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MB19.fa.gz	46620	46573	75518	0.952	253.728	237.006	0.871	0.952	0.564	19.456	72.482	0.423	0.751
+1	Esch_coli_027_SK3.fa.gz	45567	7677	31198	0.735	120.678	88.095	0.409	0.735	0.767	12.495	4.387	0.124	0.162
+2	Esch_coli_2018-18_25PC.fa.gz	45938	4343	25558	0.529	104.901	53.475	0.244	0.529	0.612	51.27	1.552	0.022	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2110_straingst	1637164635	67368872	87841	161.293	86.541									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_PS10-3.fa.gz	47810	47757	87841	0.93	274.149	253.675	0.859	0.93	0.853	36.208	74.339	0.588	0.69
+1	Esch_coli_PM4.fa.gz	45122	15396	43447	0.827	59.131	46.984	0.377	0.827	0.777	38.785	4.599	0.166	0.213
+2	Esch_coli_LH50-c.fa.gz	53086	13524	30713	0.434	64.014	25.125	0.302	0.434	0.526	11.547	2.293	0.013	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P2120_straingst	1649971383	73366427	93647	151.404	85.932									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Res13-Lact-ER01-35.fa.gz	47311	47260	93647	0.986	262.534	255.924	0.862	0.986	0.586	33.56	74.112	0.484	0.826
+1	Esch_coli_2017_01_04CC.fa.gz	44976	12142	47069	0.896	76.453	66.708	0.426	0.896	0.6	21.636	5.04	0.184	0.307
+2	Esch_coli_LD22-1.fa.gz	46889	6466	36192	0.83	67.167	54.773	0.322	0.83	0.479	11.956	2.184	0.088	0.184
+3	Shig_flexneri_WW1.fa.gz	47025	4408	30827	0.626	83.757	52.157	0.305	0.626	0.887	18.78	1.4	0.066	0.075
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3004_straingst	3205807881	123554270	78485	317.522	77.736									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_HS30-1.fa.gz	43127	43077	78485	0.949	444.087	416.968	0.729	0.949	0.726	32.32	56.656	0.453	0.624
+1	Esch_coli_OW1E2.fa.gz	47060	11451	37586	0.608	387.999	231.649	0.4	0.608	0.784	45.416	8.43	0.071	0.09
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3005_straingst	1732584654	66949755	84812	181.833	89.009									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_40EC.fa.gz	47210	47165	84812	0.976	274.739	266.033	0.82	0.976	0.481	17.258	73.018	0.367	0.763
+1	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	13318	38765	0.805	133.933	103.829	0.518	0.805	1.399	66.765	8.289	0.193	0.271
+2	Esch_coli_G3X16-2.fa.gz	47078	5848	28042	0.776	59.066	44.508	0.201	0.776	0.828	4.986	1.548	0.078	0.094
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3011_straingst	1336812363	54606599	82789	138.641	85.861									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46401	82789	0.967	230.022	220.034	0.899	0.967	0.785	49.333	77.214	0.639	0.813
+1	Esch_coli_D4.fa.gz	46526	13349	37915	0.767	43.771	31.369	0.388	0.767	1.849	36.528	3.352	0.095	0.175
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3031_straingst	1532108062	70288418	79806	172.242	89.719									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45160	79806	0.97	275.088	264.177	0.877	0.97	0.851	29.843	78.642	0.681	0.8
+1	Esch_coli_Res13-Lact-PEB17-18.fa.gz	48587	14047	36006	0.848	69.871	56.463	0.49	0.848	0.577	20.32	5.433	0.173	0.299
+2	Esch_coli_NCTC9041.fa.gz	46172	2759	24093	0.541	184.597	98.964	0.319	0.541	0.837	39.556	1.798	0.042	0.05
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3034_straingst	1494978673	61920554	57468	194.512	74.772									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45809	57468	0.896	236.792	208.943	0.87	0.896	0.92	74.772	65.039	0.577	0.626
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3038_straingst	1973413806	74486766	103161	172.217	90.027									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC475.fa.gz	46535	46476	103161	0.976	247.934	239.645	0.633	0.976	0.649	26.324	56.995	0.382	0.589
+1	Esch_coli_135_GCF_019431185.1.fa.gz	51831	24851	57796	0.678	197.583	128.202	0.511	0.678	0.946	44.149	16.882	0.151	0.16
+2	Esch_coli_NCTC9080.fa.gz	46384	9310	40935	0.816	74.168	59.866	0.177	0.816	0.717	19.554	2.854	0.069	0.096
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3050_straingst	1749962857	68749894	101605	148.635	86.299									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AMSCJX02.fa.gz	46744	46677	101605	0.968	250.374	238.751	0.749	0.968	0.612	28.552	64.625	0.415	0.679
+1	Esch_coli_APEC_O2-211.fa.gz	49789	23506	56436	0.908	75.966	66.895	0.427	0.908	0.739	24.864	9.265	0.236	0.32
+2	Esch_coli_442_2.fa.gz	47236	7229	35093	0.736	137.629	98.889	0.337	0.736	0.886	18.661	4.182	0.119	0.134
+3	Esch_coli_Quinolone_resistant_GCF_904426485.1.fa.gz	45397	7927	29776	0.706	17.911	12.397	0.07	0.706	0.83	14.222	0.573	0.02	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3051_straingst	1052969573	55077462	91693	97.422	84.836									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Shig_flexneri_SWHEFF_67.fa.gz	44642	44578	91693	0.967	160.972	154.336	0.777	0.967	0.752	49.373	65.884	0.528	0.702
+1	Shig_flexneri_STEFF_16.fa.gz	46675	13682	48596	0.85	76.505	63.914	0.446	0.85	0.576	16.141	8.446	0.157	0.273
+2	Esch_coli_1409.fa.gz	47484	6087	36971	0.629	78.033	47.998	0.27	0.629	0.654	19.321	2.838	0.044	0.067
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3053_straingst	1638743592	66358292	84428	159.683	82.268									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BLK9.fa.gz	40898	40854	84428	0.97	194.405	186.877	0.571	0.97	0.748	17.66	47.002	0.39	0.521
+1	Esch_coli_P15-25.fa.gz	49121	24262	44808	0.742	160.757	116.74	0.501	0.742	0.855	45.957	17.653	0.175	0.204
+2	Esch_coli_LH50-c.fa.gz	53086	17702	26813	0.361	216.589	71.848	0.48	0.361	1.157	18.651	8.456	0.02	0.023
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3057_straingst	1724824054	63695330	68504	236.359	93.874									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Sx181-0-1.fa.gz	46795	46739	68504	0.97	325.07	313.12	0.91	0.97	0.493	52.51	85.439	0.41	0.831
+1	Esch_coli_LD22-1.fa.gz	46889	7586	23170	0.748	152.398	111.647	0.594	0.748	0.863	41.363	5.013	0.215	0.249
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3060_straingst	1411385247	68518489	85301	145.361	87.853									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2011C-3911.fa.gz	47705	47645	85301	0.937	250.16	231.989	0.901	0.937	0.68	45.545	79.157	0.504	0.742
+1	Esch_coli_13C1079T.fa.gz	46468	7664	40641	0.779	36.074	27.658	0.175	0.779	1.269	6.253	1.525	0.065	0.083
+2	Esch_coli_2EC1.fa.gz	44239	10327	34673	0.704	20.434	13.759	0.147	0.704	0.66	36.055	1.052	0.034	0.051
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3064_straingst	1201032339	50518963	80234	139.245	93.021									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H14.fa.gz	46582	46527	80234	0.982	199.406	194.02	0.815	0.982	0.468	9.202	75.837	0.361	0.771
+1	Esch_coli_2_HS-C.fa.gz	44403	12053	34557	0.863	61.982	52.433	0.312	0.863	0.519	20.698	5.37	0.104	0.201
+2	Esch_coli_MSHS_472.fa.gz	47050	5537	24152	0.701	126.455	87.898	0.346	0.701	0.46	32.941	4.085	0.055	0.119
+3	Esch_coli_LD91-1.fa.gz	46577	3927	20272	0.529	93.698	49.292	0.21	0.529	0.882	30.181	1.621	0.027	0.031
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3066_straingst	2053007246	96613562	82001	193.369	77.235									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_GDAR2-2.fa.gz	48349	48286	82001	0.946	297.052	278.229	0.856	0.946	0.788	56.792	66.108	0.572	0.725
+1	Esch_coli_600468.fa.gz	47174	8066	36312	0.746	84.717	62.087	0.223	0.746	0.851	20.443	2.482	0.079	0.092
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3068_straingst	1045744563	44617517	74494	129.529	92.271									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46420	74494	0.947	186.673	174.672	0.851	0.947	0.899	55.798	78.49	0.65	0.723
+1	Esch_coli_W5-6.fa.gz	45373	12636	30524	0.969	32.617	30.85	0.277	0.969	0.525	36.473	3.818	0.132	0.252
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3069_straingst	1066728380	50744569	78903	101.182	74.842									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	45719	78903	0.945	143.247	132.112	0.775	0.945	0.938	56.022	58.024	0.614	0.654
+1	Esch_coli_135_GCF_019431185.1.fa.gz	51831	25389	35694	0.482	56.172	26.073	0.383	0.482	2.205	18.82	6.449	0.02	0.043
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3071_straingst	1748995404	79275704	121615	101.479	70.563									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EA7.fa.gz	44692	44610	121615	0.946	237.107	221.494	0.811	0.946	0.74	37.364	57.216	0.508	0.687
+1	Esch_coli_135_GCF_019431185.1.fa.gz	51831	25854	79410	0.88	35.792	30.294	0.349	0.88	0.517	12.462	4.655	0.123	0.238
+2	Esch_fergusonii_EF21JD053.fa.gz	44081	31979	56663	0.904	9.588	8.658	0.182	0.904	0.817	2.696	1.585	0.11	0.135
+3	Esch_coli_MB50.fa.gz	45692	5664	27757	0.553	84.348	46.103	0.213	0.553	0.821	18.04	1.511	0.03	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3075_straingst	1089632905	56152470	72001	128.231	84.733									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2018-02-2CC.fa.gz	44497	44440	72001	0.958	188.96	179.415	0.871	0.958	0.873	70.093	73.797	0.667	0.765
+1	Esch_coli_STEC711.fa.gz	46210	15981	29446	0.562	42.243	23.282	0.318	0.562	3.953	14.64	3.48	0.014	0.056
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3076_straingst	1745414828	64698331	76831	205.55	90.481									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46838	76831	0.955	282.779	267.313	0.801	0.955	0.824	58.442	72.497	0.576	0.699
+1	Shig_flexneri_SWHIN_104.fa.gz	47104	9131	32083	0.815	146.692	116.954	0.348	0.815	0.892	32.039	6.254	0.168	0.188
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3080_straingst	1973533362	77052766	96197	169.966	82.847									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_68.fa.gz	51724	51648	96197	0.94	276.873	256.512	0.822	0.94	0.854	47.446	68.137	0.584	0.684
+1	Esch_coli_EC6563.fa.gz	47512	20309	47629	0.855	65.175	54.993	0.39	0.855	1.758	18.989	5.734	0.139	0.244
+2	Esch_coli_WP7-S17-ESBL-04.fa.gz	45767	6961	30266	0.742	37.052	26.766	0.108	0.742	0.664	16.412	0.97	0.029	0.044
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3092_straingst	2013382944	84989908	102421	168.62	85.777									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45147	102421	0.98	310.285	301.227	0.795	0.98	0.731	18.101	68.165	0.546	0.747
+1	Esch_coli_EC21Z-014.fa.gz	47495	14057	58190	0.881	163.722	137.763	0.572	0.881	0.781	21.06	10.068	0.305	0.391
+2	Esch_coli_GSH8M-2.fa.gz	45888	5453	45809	0.699	70.822	47.754	0.178	0.699	0.755	46.616	1.34	0.046	0.061
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3093_straingst	1234628509	63644024	74948	146.104	88.692									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BLK9.fa.gz	40898	40847	74948	0.98	217.523	211.552	0.795	0.98	0.903	69.096	70.546	0.676	0.749
+1	Shig_flexneri_STEFF_10.fa.gz	47686	16267	34907	0.816	63.318	50.633	0.375	0.816	0.674	19.596	6.807	0.137	0.204
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3099_straingst	1224585444	76855862	100892	103.918	85.617									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46822	100892	0.964	200.26	191.31	0.862	0.964	0.866	53.102	73.828	0.67	0.773
+1	Esch_coli_135_GCF_019431185.1.fa.gz	51831	24579	55746	0.653	18.474	11.562	0.205	0.653	0.623	7.066	2.422	0.036	0.057
+2	Esch_coli_FDAARGOS_1077.fa.gz	47766	11945	39689	0.556	26.51	13.999	0.154	0.556	1.913	25.449	1.439	0.014	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3103_straingst	1818661696	74046234	64473	237.88	84.33									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_TUM18780.fa.gz	48212	48162	64473	0.923	309.581	283.467	0.898	0.923	0.886	84.33	75.704	0.626	0.707
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3104_straingst	1526315633	69968300	78336	176.417	90.544									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_C2.fa.gz	47125	47069	78336	0.96	259.924	246.514	0.85	0.96	0.817	66.417	76.983	0.615	0.753
+1	Esch_coli_L7_E1373_ETEC.fa.gz	48438	16931	33130	0.898	80.58	71.2	0.592	0.898	0.868	24.127	8.023	0.371	0.428
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3108_straingst	1464567926	70248517	93427	138.013	88.041									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Sx181-0-1.fa.gz	46795	46731	93427	0.96	263.832	251.693	0.918	0.96	0.753	55.03	80.823	0.611	0.812
+1	Esch_coli_CFSAN061768.fa.gz	48567	21241	48561	0.68	25.98	17.195	0.355	0.68	1.324	8.941	2.562	0.084	0.112
+2	Esch_coli_PK8276.fa.gz	47779	11242	34119	0.56	18.196	9.656	0.168	0.56	1.228	24.07	0.782	0.024	0.029
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3109_straingst	1512230862	63925589	123580	111.568	91.173									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_ECCHD184.fa.gz	46667	46587	123580	0.964	236.636	225.286	0.771	0.964	0.51	10.845	70.291	0.353	0.691
+1	Esch_fergusonii_RHB19-C05.fa.gz	45359	35290	78660	0.901	19.419	17.447	0.196	0.901	0.523	2.349	4.084	0.075	0.143
+2	Esch_coli_NCTC9080.fa.gz	46384	7511	46859	0.692	134.197	92.081	0.275	0.692	0.642	10.479	4.612	0.058	0.091
+3	Esch_coli_362.fa.gz	47856	16613	41662	0.564	46.529	25.894	0.237	0.564	0.67	5.218	2.882	0.028	0.042
+4	Esch_coli_XD35.fa.gz	46806	5059	32294	0.465	133.231	58.952	0.223	0.465	0.772	62.282	2.074	0.017	0.022
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+P3120_straingst	1516479466	62849450	73137	188.948	91.126									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2013C-4282.fa.gz	49445	49403	73137	0.904	238.874	213.64	0.772	0.904	0.724	47.642	70.361	0.413	0.571
+1	Esch_coli_EC42405.fa.gz	50384	16218	28469	0.473	180.783	84.137	0.441	0.473	0.914	43.484	9.15	0.043	0.047
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1004_straingst	3046467953	121350078	97337	284.844	91.01									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_PapRG-06-3.fa.gz	46299	46237	97337	0.951	481.899	454.197	0.764	0.951	0.699	20.374	69.533	0.459	0.656
+1	Esch_coli_B379.fa.gz	46832	13488	53380	0.777	329.819	246.15	0.529	0.777	0.742	56.684	11.351	0.184	0.248
+2	Esch_coli_103605.fa.gz	48773	6798	42895	0.567	168.62	83.411	0.211	0.567	0.438	13.952	2.133	0.017	0.038
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1005_straingst	1672975969	64680835	93850	156.223	87.637									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_KSC64.fa.gz	46610	46554	93850	0.942	273.375	254.477	0.818	0.942	0.756	41.623	71.646	0.516	0.683
+1	Esch_coli_Combat13F7.fa.gz	46252	13364	50005	0.829	78.924	63.601	0.327	0.829	0.617	27.168	5.224	0.115	0.186
+2	Esch_coli_Combat11I9.fa.gz	49124	14858	38931	0.645	54.739	34.11	0.291	0.645	0.787	18.847	3.137	0.062	0.078
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1009_straingst	1740652996	68334827	80686	189.598	87.886									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2017_11_01CC.fa.gz	46241	46184	80686	0.947	244.51	229.165	0.699	0.947	0.667	46.877	61.428	0.396	0.593
+1	Esch_coli_2017_09_02CC.fa.gz	46333	20895	36956	0.66	174.695	113.844	0.523	0.66	0.9	41.008	13.844	0.136	0.151
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1019_straingst	933170076	83215882	87032	82.762	77.188									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45144	87032	0.966	129.827	124.255	0.786	0.966	0.763	19.041	60.657	0.54	0.708
+1	Esch_coli_SA31-1.fa.gz	47640	14281	43433	0.866	60.412	51.523	0.484	0.866	0.624	16.711	8.004	0.196	0.314
+2	Esch_coli_WP8-S17-ESBL-05.fa.gz	47199	5697	31070	0.762	29.084	21.714	0.159	0.762	0.973	5.445	1.354	0.068	0.07
+3	Esch_coli_90-9272.fa.gz	47367	5575	26727	0.473	56.43	23.608	0.222	0.473	0.956	35.991	1.596	0.023	0.024
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1021_straingst	3080285869	132812808	96617	286.369	89.823									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SC476.fa.gz	46786	46689	96617	0.961	531.692	508.253	0.863	0.961	0.543	47.869	77.477	0.416	0.766
+1	Esch_coli_H9Ecoli.fa.gz	45911	13619	51732	0.801	136.325	106.934	0.391	0.801	0.49	25.239	4.829	0.099	0.201
+2	Esch_coli_14EC033.fa.gz	45189	12738	40821	0.727	81.646	58.401	0.327	0.727	0.846	16.715	2.456	0.106	0.126
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1024_straingst	3218360046	145890733	137891	198.231	84.932									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_600468.fa.gz	47174	47075	137891	0.978	478.426	462.698	0.806	0.978	0.563	7.394	68.444	0.425	0.754
+1	Esch_coli_NCTC9008.fa.gz	46540	12886	91849	0.885	224.513	195.837	0.482	0.885	0.623	40.909	7.951	0.208	0.334
+2	Esch_coli_Res13-Lact-PEB08-01.fa.gz	46350	5451	80451	0.725	248.325	171.6	0.357	0.725	0.799	22.345	3.049	0.109	0.136
+3	Esch_coli_MB19.fa.gz	46620	6112	76499	0.739	56.972	40.895	0.146	0.739	0.654	6.97	0.799	0.038	0.059
+4	Esch_coli_S50.fa.gz	46646	3053	71984	0.624	125.049	73.321	0.158	0.624	0.744	7.315	0.74	0.029	0.038
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1030_straingst	1111169679	53828210	82022	118.052	87.141									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_PM4-5.fa.gz	46874	46818	82022	0.957	179.745	170.129	0.832	0.957	0.729	35.41	72.46	0.531	0.728
+1	Esch_coli_NCTC9087.fa.gz	45206	11636	37228	0.853	60.813	51.231	0.37	0.853	0.839	27.53	5.431	0.192	0.229
+2	Esch_coli_442_2.fa.gz	47236	6148	27305	0.709	68.711	47.353	0.291	0.709	0.837	24.201	2.695	0.087	0.104
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1031_straingst	722959366	38775920	83436	77.882	89.883									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BE2-5.fa.gz	45963	45907	83436	0.96	120.571	114.616	0.818	0.96	0.799	47.381	73.514	0.579	0.724
+1	Esch_coli_FORC_041.fa.gz	47790	14107	39356	0.785	48.895	37.562	0.458	0.785	0.681	32.394	7.49	0.151	0.221
+2	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	19111	28282	0.521	19.18	9.919	0.297	0.521	0.9	10.108	2.641	0.038	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1034_straingst	1003092671	47035539	69458	134.711	93.279									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_2018-11-3CC.fa.gz	44482	44436	69458	0.936	164.769	152.937	0.733	0.936	0.73	57.394	68.346	0.439	0.602
+1	Esch_coli_SCU-113.fa.gz	46910	14160	27850	0.591	152.915	88.801	0.512	0.591	1.006	35.885	12.755	0.105	0.106
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1045_straingst	800763064	40375119	54864	120.824	82.782									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MS1170.fa.gz	46828	46824	54864	0.929	132.632	122.081	0.87	0.929	0.874	82.782	72.06	0.611	0.698
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1049_straingst	1240247251	59082012	98874	115.09	91.751									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_UMB200201_11.fa.gz	46275	46221	98874	0.997	197.544	194.671	0.8	0.997	0.375	24.06	73.375	0.297	0.792
+1	Esch_coli_PigCaeca_1.fa.gz	46301	12827	52807	0.878	129.462	111.525	0.64	0.878	0.801	33.905	11.754	0.347	0.433
+2	Esch_coli_EcMAD1.fa.gz	46677	5586	41547	0.784	52.194	39.88	0.278	0.784	0.794	14.252	1.844	0.107	0.134
+3	Esch_coli_61.fa.gz	46292	4930	37165	0.841	18.763	15.215	0.131	0.841	0.673	14.277	0.627	0.053	0.078
+4	Esch_coli_Quinolone_resistant_GCF_904842665.1.fa.gz	46322	3407	33018	0.739	15.861	11.625	0.078	0.739	0.345	5.257	0.322	0.011	0.031
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1050_straingst	1006344712	54994975	89367	89.626	79.591									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46848	89367	0.967	135.18	129.029	0.764	0.967	0.751	30.381	60.838	0.519	0.691
+1	Esch_coli_2018-11-3CC.fa.gz	44482	11525	44076	0.855	57.094	48.435	0.298	0.855	0.761	26.454	5.592	0.142	0.186
+2	Shig_flexneri_STEFF_22.fa.gz	47557	6847	34220	0.794	60.266	47.433	0.247	0.794	0.803	22.756	3.256	0.099	0.124
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1051_straingst	1636516569	54358865	85	843.765	0.438									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1053_straingst	1174847388	65080611	98609	101.309	85.032									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_H15.fa.gz	46628	46568	98609	0.966	199.164	190.878	0.897	0.966	0.737	42.581	76.272	0.596	0.809
+1	Esch_coli_EC-1639.fa.gz	49632	23430	53617	0.868	18.976	16.163	0.375	0.868	0.47	5.046	3.283	0.115	0.245
+2	Esch_coli_2018-02-2CC.fa.gz	44497	8656	33288	0.812	23.672	18.852	0.259	0.812	0.639	25.218	1.416	0.088	0.138
+3	Esch_coli_13C1079T.fa.gz	46468	4499	26261	0.611	49.954	30.036	0.288	0.611	1.253	12.186	1.169	0.052	0.066
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1055_straingst	2995676390	120745561	98573	275.559	90.673									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC-7215.fa.gz	47391	47334	98573	0.967	449.093	429.588	0.757	0.967	0.529	41.254	68.612	0.362	0.684
+1	Esch_coli_P15-385.fa.gz	47999	8922	52805	0.743	242.269	165.059	0.243	0.743	0.657	49.419	5.358	0.065	0.099
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1057_straingst	1250017035	60161080	59638	146.092	69.7									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0069.fa.gz	45888	45853	59638	0.926	175.352	161.035	0.855	0.926	0.939	69.7	59.576	0.638	0.679
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1060_straingst	1549063978	63894014	98068	145.061	91.835									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S3.fa.gz	45444	45378	98068	0.981	270.23	262.908	0.846	0.981	0.668	48.964	77.667	0.534	0.799
+1	Esch_coli_WP2-W18-ESBL-08.fa.gz	48600	22735	53546	0.935	63.572	58.932	0.616	0.935	0.858	14.057	8.721	0.431	0.503
+2	Esch_coli_CFS3246.fa.gz	46834	10319	32296	0.819	33.173	26.088	0.332	0.819	0.728	28.814	1.809	0.133	0.182
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1062_straingst	2148457973	72725664	62517	307.82	89.571									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0061.fa.gz	45120	45080	62517	0.969	399.851	382.481	0.907	0.969	0.897	89.571	81.263	0.74	0.824
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1064_straingst	1110872989	59556491	102873	88.709	82.15									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_MSHS_472.fa.gz	47050	46986	102873	0.967	165.206	158.687	0.823	0.967	0.576	34.155	67.586	0.429	0.744
+1	Esch_coli_NCTC9041.fa.gz	46172	12732	57427	0.904	76.251	67.943	0.542	0.904	0.715	27.27	7.898	0.286	0.4
+2	Esch_coli_H15.fa.gz	46628	5350	45920	0.788	34.297	26.803	0.195	0.788	0.651	14.438	1.302	0.062	0.096
+3	Esch_coli_TUM18780.fa.gz	48212	11827	41703	0.682	12.378	8.379	0.168	0.682	0.562	6.288	0.899	0.03	0.053
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1066_straingst	2026599076	93584934	101188	143.63	71.714									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC21Z-014.fa.gz	47495	47430	101188	0.966	253.684	240.018	0.8	0.966	0.717	20.566	57.361	0.517	0.721
+1	Esch_coli_KKo009.fa.gz	47481	20906	55364	0.909	36.434	32.57	0.238	0.909	0.518	8.004	3.417	0.093	0.179
+2	Shig_flexneri_STEFF_16.fa.gz	46675	5688	36357	0.654	186.063	120.899	0.312	0.654	1.047	43.144	3.414	0.083	0.087
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1068_straingst	1329918468	86403348	143617	65.46	70.69									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_W5-6.fa.gz	45373	45239	143617	0.994	175.937	173.372	0.841	0.994	0.571	30.178	59.464	0.471	0.825
+1	Esch_fergusonii_RHB19-C05.fa.gz	45359	35653	98668	0.855	8.781	7.486	0.179	0.855	0.77	3.595	2.013	0.086	0.112
+2	Esch_coli_STEC711.fa.gz	46210	13853	68185	0.7	25.75	17.692	0.204	0.7	3.146	8.169	1.878	0.022	0.07
+3	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	6450	58487	0.569	46.468	25.649	0.175	0.569	3.95	10.807	1.282	0.008	0.032
+4	Esch_coli_GD33.fa.gz	45481	4427	54817	0.603	29.995	17.405	0.1	0.603	0.695	17.941	0.602	0.015	0.022
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1071_straingst	1045971297	123151459	101679	51.608	50.168									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S30.fa.gz	45705	45634	101679	0.964	102.943	98.226	0.863	0.964	0.699	32.808	43.281	0.539	0.772
+1	Esch_coli_EH10-18-47.fa.gz	45138	7973	57703	0.828	32.517	26.384	0.298	0.828	0.43	7.01	2.053	0.073	0.169
+2	Esch_coli_Quinolone_resistant_GCF_904426485.1.fa.gz	45397	6894	51100	0.726	20.436	14.415	0.202	0.726	0.39	3.477	0.978	0.03	0.077
+3	Esch_coli_13C1065T.fa.gz	45345	4066	46094	0.534	31.708	16.592	0.171	0.534	0.692	6.873	0.658	0.018	0.026
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1076_straingst	2295121078	96356786	131930	145.255	83.496									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_BE2-5.fa.gz	45963	45836	131930	0.983	330.228	322.16	0.776	0.983	0.371	5.377	64.808	0.273	0.737
+1	Esch_coli_F5656C1.fa.gz	45983	9906	86888	0.81	225.762	177.019	0.422	0.81	0.583	56.058	7.895	0.131	0.225
+2	Esch_fergusonii_RHB38-C01.fa.gz	46479	35317	78862	0.937	22.702	21.081	0.303	0.937	0.594	5.378	3.275	0.149	0.25
+3	Esch_coli_A23.fa.gz	44064	5714	45756	0.834	77.276	64.311	0.213	0.834	0.554	7.143	1.605	0.069	0.124
+4	Esch_coli_2018-11-3CC.fa.gz	44482	3920	40989	0.698	86.767	60.13	0.175	0.698	0.599	9.541	1.034	0.036	0.059
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1081_straingst	1821973227	82643608	83215	165.68	75.671									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46405	83215	0.964	258.712	246.582	0.839	0.964	0.806	49.427	63.505	0.605	0.751
+1	Esch_coli_H3.fa.gz	47946	15042	38492	0.829	60.402	48.733	0.34	0.829	1.102	26.244	4.136	0.176	0.194
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1083_straingst	1732951901	90636406	131203	96.725	73.231									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_SBF45.fa.gz	45706	45633	131203	0.978	209.037	203.495	0.735	0.978	0.491	15.175	53.818	0.337	0.687
+1	Esch_coli_RCAD0514.fa.gz	45605	13039	86587	0.928	104.929	95.699	0.377	0.928	0.368	14.14	7.326	0.111	0.302
+2	Esch_coli_EC50.fa.gz	46378	6530	74487	0.8	91.478	72.795	0.228	0.8	0.757	19.888	2.756	0.088	0.117
+3	Esch_coli_NDM1.fa.gz	47550	6549	69266	0.815	48.909	38.97	0.162	0.815	0.416	11.052	1.507	0.036	0.088
+4	Esch_coli_WP5-S17-ESBL-11.fa.gz	46934	4522	63926	0.694	54.605	37.557	0.126	0.694	0.501	12.976	0.988	0.021	0.042
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1084_straingst	1454080180	66414965	67397	179.433	83.168									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LH09-a.fa.gz	45993	45919	67397	0.979	242.951	235.937	0.903	0.979	0.781	83.168	75.088	0.661	0.846
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1085_straingst	1612633442	75300869	85422	161.457	85.524									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Combat13F7.fa.gz	46252	46195	85422	0.957	265.23	250.554	0.85	0.957	0.642	16.253	72.722	0.479	0.746
+1	Esch_coli_MS14386.fa.gz	47646	14260	41206	0.916	52.522	47.215	0.332	0.916	0.358	4.526	4.256	0.092	0.256
+2	Esch_coli_CFSAN064036.fa.gz	46786	6685	28138	0.707	123.013	81.617	0.422	0.707	0.578	33.264	3.607	0.086	0.149
+3	Esch_coli_str_TO6.fa.gz	47167	4656	23410	0.599	56.647	31.809	0.198	0.599	0.652	31.482	0.979	0.028	0.043
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1090_straingst	1484806425	92532955	125386	60.872	51.404									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Ecol_AZ155.fa.gz	45677	45545	125386	0.998	121.597	119.782	0.724	0.998	0.402	8.862	37.228	0.289	0.72
+1	Esch_coli_2018-11-3CC.fa.gz	44482	9237	79927	0.916	66.425	60.584	0.267	0.916	0.297	10.99	3.787	0.061	0.206
+2	Esch_coli_Combat11I9.fa.gz	49124	16210	71463	0.702	42.872	29.31	0.316	0.702	0.883	17.759	3.284	0.096	0.109
+3	Esch_coli_BE2-5.fa.gz	45963	4545	60089	0.775	24.668	19.029	0.082	0.775	0.265	6.877	0.585	0.01	0.038
+4	Esch_coli_MB50.fa.gz	45692	4066	56566	0.709	19.976	13.953	0.059	0.709	0.423	6.915	0.388	0.009	0.021
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1092_straingst	1281356514	62701245	78741	148.538	91.279									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WG5.fa.gz	44789	44745	78741	0.901	176.508	156.34	0.608	0.901	0.761	40.961	55.536	0.339	0.445
+1	Esch_coli_ST2747_GCF_000599685.1.fa.gz	48541	22307	38425	0.576	193.879	108.533	0.544	0.576	0.797	50.318	19.44	0.083	0.104
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1093_straingst	793601168	55879957	79654	64.655	64.895									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_C2.fa.gz	47125	47076	79654	0.97	99.273	94.988	0.88	0.97	0.818	43.089	57.124	0.658	0.804
+1	Shig_dysenteriae_SWHEFF_49.fa.gz	49985	19202	33988	0.721	16.077	11.415	0.361	0.721	0.739	14.041	2.806	0.1	0.135
+2	Esch_coli_RM9387.fa.gz	47272	6837	20139	0.588	23.071	12.643	0.235	0.588	0.754	7.766	1.168	0.036	0.048
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1099_straingst	1543323823	74385394	74600	154.617	74.738									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_13C1079T.fa.gz	46468	46411	74600	0.972	233.496	224.471	0.913	0.972	0.832	56.626	68.264	0.698	0.839
+1	Esch_coli_1943.fa.gz	47009	8242	29480	0.717	38.154	27.062	0.226	0.717	0.552	18.112	1.46	0.046	0.083
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1103_straingst	1589908981	83106626	94304	142.29	84.398									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_19SZHZ663Rt.fa.gz	46414	46361	94304	0.964	241.2	229.983	0.803	0.964	0.658	21.037	67.813	0.474	0.72
+1	Esch_coli_Ecol_AZ147.fa.gz	46122	12859	49604	0.884	114.42	99.837	0.493	0.884	0.587	19.486	8.178	0.2	0.34
+2	Esch_coli_D4.fa.gz	46526	7275	38240	0.729	60.221	40.899	0.239	0.729	1.242	19.994	2.007	0.074	0.092
+3	Esch_coli_Quinolone_resistant_GCF_904842665.1.fa.gz	46322	4564	32940	0.559	117.739	65.311	0.295	0.559	0.763	23.881	1.888	0.039	0.051
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1104_straingst	2036239161	114373947	163294	73.425	58.883									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Quinolone_resistant_GCF_904842665.1.fa.gz	46322	46194	163294	0.987	182.924	179.194	0.695	0.987	0.436	12.449	40.953	0.292	0.668
+1	Esch_coli_LAU-OXA.fa.gz	46773	13397	117707	0.94	83.51	75.851	0.288	0.94	0.235	16.867	5.166	0.056	0.24
+2	Esch_fergusonii_RHB28-C21.fa.gz	45194	33484	105110	0.943	16.827	15.693	0.205	0.943	0.584	7.672	2.61	0.1	0.172
+3	Esch_coli_G3_10.fa.gz	48025	9044	73525	0.688	91.576	61.893	0.276	0.688	0.842	18.37	2.799	0.076	0.09
+4	Esch_coli_EC42405.fa.gz	50384	20551	67301	0.639	20.725	13.122	0.182	0.639	0.723	3.525	1.337	0.034	0.047
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1108_straingst	1741510026	113236946	80621	88.97	41.188									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_G4_9.fa.gz	45836	45752	80621	0.977	140.83	136.364	0.878	0.977	0.759	35.924	36.154	0.621	0.819
+1	Esch_coli_H3_GCF_001900815.1.fa.gz	45610	12511	35913	0.841	13.364	11.048	0.16	0.841	1.137	5.263	0.808	0.084	0.096
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1109_straingst	1606654758	106021855	93134	49.515	28.703									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_VR50.fa.gz	48478	48391	93134	0.974	67.644	64.661	0.692	0.974	0.325	4.699	19.854	0.208	0.64
+1	Esch_coli_MSHS_133.fa.gz	47992	21750	45977	0.913	32.165	28.142	0.449	0.913	0.711	14.263	3.974	0.243	0.341
+2	Esch_coli_Combat13F7.fa.gz	46252	7072	26127	0.639	42.131	25.917	0.243	0.639	0.886	9.741	1.186	0.056	0.064
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1110_straingst	941982284	72518918	92646	35.464	34.88									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_N18-04097.fa.gz	46481	46417	92646	0.961	53.262	50.287	0.723	0.961	0.761	12.188	25.22	0.488	0.642
+1	Esch_coli_PS10-3.fa.gz	47810	17242	48042	0.816	25.762	20.92	0.398	0.816	0.823	11.562	3.849	0.178	0.217
+2	Esch_coli_H1.fa.gz	46675	6956	33970	0.618	19.33	11.656	0.152	0.618	0.579	11.13	0.882	0.021	0.036
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1111_straingst	1332529328	53177591	78679	149.628	88.347									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_WP8-S18-ESBL-07.fa.gz	47916	47866	78679	0.983	199.87	192.869	0.799	0.983	0.69	28.818	70.57	0.524	0.759
+1	Esch_coli_2018-18_25PC.fa.gz	45938	19822	31630	0.783	96.49	74.201	0.632	0.783	0.939	59.529	11.238	0.285	0.303
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1119_straingst	1860399410	79030239	66241	174.585	62.162									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Combat13F7.fa.gz	46252	46201	66241	0.929	242.543	222.265	0.9	0.929	0.85	62.162	55.971	0.614	0.722
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+S1120_straingst	937995107	46966840	68392	126.945	92.56									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_W5-6.fa.gz	45373	45312	68392	0.971	178.007	170.576	0.902	0.971	0.748	37.149	83.506	0.618	0.826
+1	Shig_flexneri_SWHEFF_67.fa.gz	44642	6762	24389	0.81	57.987	46.306	0.374	0.81	0.624	15.297	3.385	0.124	0.198
+2	Esch_coli_EA7.fa.gz	44692	5550	18914	0.519	41.531	21.241	0.225	0.519	0.757	40.113	1.276	0.024	0.031
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1005_straingst	1418452648	67277065	62929	182.773	81.086									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_KL53.fa.gz	46653	46606	62929	0.94	225.073	207.373	0.858	0.94	0.91	81.086	69.546	0.649	0.713
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1019_straingst	1307171856	76855304	95193	103.869	75.641									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46824	95193	0.961	179.417	170.851	0.817	0.961	0.852	37.272	61.786	0.619	0.726
+1	Esch_coli_Z0117EC0056.fa.gz	50477	23215	50178	0.908	42.344	37.726	0.493	0.908	0.89	19.701	6.828	0.328	0.369
+2	Esch_coli_SA31-1.fa.gz	47640	6384	29101	0.712	44.062	30.919	0.218	0.712	0.674	18.668	1.532	0.053	0.079
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1031_straingst	1853200095	85044584	67173	211.313	76.595									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_EC21Z-048.fa.gz	46411	46361	67173	0.941	293.286	268.4	0.901	0.941	0.914	76.595	69.041	0.686	0.751
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1042_straingst	887909132	67301251	61785	112.85	78.526									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_CFSAN061769.fa.gz	48527	48476	61785	0.902	137.547	121.64	0.863	0.902	0.899	78.526	67.772	0.57	0.634
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1050_straingst	2033344338	64361285	62644	273.437	84.241									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_QA-1986_83.fa.gz	47143	47107	62644	0.892	334.989	296.007	0.822	0.892	0.883	84.241	69.255	0.516	0.584
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1051_straingst	1872717824	64416430	59903	295.061	94.382									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Ecol_AZ147.fa.gz	46122	46074	59903	0.898	395.237	350.167	0.925	0.898	0.921	94.382	87.316	0.617	0.67
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1055_straingst	2643045063	133295583	95425	241.389	87.152									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_442_2.fa.gz	47236	47194	95425	0.954	356.254	334.084	0.696	0.954	0.587	23.22	60.692	0.355	0.605
+1	Esch_coli_PapRG-06-5.fa.gz	48880	18705	50398	0.576	335.53	191.584	0.517	0.576	0.894	53.254	13.682	0.088	0.099
+2	Esch_coli_WP8-S17-ESBL-05.fa.gz	47199	6092	39620	0.632	97.38	60.037	0.111	0.632	0.483	10.678	1.418	0.014	0.028
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1057_straingst	1243391952	70259225	73507	149.766	88.539									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_AR_0069.fa.gz	45888	45849	73507	0.939	214.053	199.335	0.837	0.939	0.771	49.319	74.099	0.534	0.692
+1	Esch_coli_AR_0374.fa.gz	47293	10932	30464	0.746	106.204	73.886	0.482	0.746	0.891	39.22	6.966	0.178	0.2
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1060_straingst	1918182246	77504808	64493	203.065	68.274									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_1190.fa.gz	48261	48219	64493	0.906	241.083	216.229	0.804	0.906	0.941	68.274	54.891	0.562	0.597
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1064_straingst	969347250	59789363	58574	123.657	74.721									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_P15-385.fa.gz	47999	47978	58574	0.902	146.189	128.125	0.873	0.902	0.908	74.721	65.247	0.581	0.64
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1068_straingst	965895296	70590380	9484	71.532	7.024									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1081_straingst	1341019061	95918322	110045	57.114	46.868									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_190693.fa.gz	50189	50104	110045	0.977	84.904	81.29	0.662	0.977	0.525	10.123	31.007	0.325	0.618
+1	Esch_coli_MB19.fa.gz	46620	19928	61070	0.903	61.008	53.854	0.516	0.903	0.607	10.331	8.189	0.231	0.38
+2	Esch_coli_382634_2f.fa.gz	46453	17774	43070	0.625	18.603	11.572	0.201	0.625	0.783	5.199	1.54	0.038	0.049
+3	Esch_coli_NCTC9107.fa.gz	46037	5632	31968	0.607	36.84	21.71	0.153	0.607	0.71	12.753	0.94	0.024	0.034
+4	Esch_coli_U1.fa.gz	51721	4586	28547	0.569	35.716	20.017	0.134	0.569	0.775	8.463	0.695	0.019	0.025
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1083_straingst	1776005145	70364504	62678	244.073	86.137									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NDM1.fa.gz	47550	47520	62678	0.946	296.237	276.619	0.87	0.946	0.799	86.137	74.98	0.589	0.737
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1084_straingst	2229730805	92775604	112361	156.971	79.101									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_S56.fa.gz	46411	46338	112361	0.915	324.251	293.003	0.779	0.915	0.838	69.384	61.646	0.5	0.597
+1	Esch_coli_BEC1-S17-ESBL-09.fa.gz	49682	23210	69970	0.921	52.756	46.337	0.29	0.921	0.479	5.756	5.057	0.108	0.226
+2	Esch_coli_Nissle_1917.fa.gz	49570	19595	48596	0.908	24.484	21.853	0.158	0.908	0.677	3.961	1.954	0.08	0.118
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1092_straingst	1313272082	109844731	72982	76.067	42.272									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD22-1.fa.gz	46889	46816	72982	0.943	107.06	99.954	0.852	0.943	0.862	42.272	35.995	0.616	0.714
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1098_straingst	1472318344	73704195	73785	176.759	88.582									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_ST540_GCF_000599625.1.fa.gz	46341	46290	73785	0.938	265.403	243.458	0.883	0.938	1.151	72.156	78.254	0.633	0.729
+1	Esch_coli_NCTC10973.fa.gz	45616	8844	30374	0.815	70.316	56.362	0.333	0.815	0.53	16.426	3.443	0.096	0.181
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1099_straingst	1226457426	93105629	83522	116.804	79.543									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_LD27-1.fa.gz	45656	45599	83522	0.965	177.533	168.409	0.801	0.965	0.488	34.034	63.703	0.351	0.72
+1	Esch_coli_EA2.fa.gz	46730	11903	39514	0.833	76.511	62.613	0.391	0.833	0.382	9.098	6.186	0.086	0.226
+2	Esch_coli_VCSW8.fa.gz	46034	8773	29598	0.633	97.741	61.263	0.458	0.633	0.715	13.505	4.422	0.083	0.116
+3	Esch_coli_ISHS7.fa.gz	47375	5614	24049	0.395	95.167	36.845	0.329	0.395	0.783	22.907	1.723	0.016	0.02
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1103_straingst	1908712498	94864988	13301	43.695	3.045									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1108_straingst	1866628246	118132742	18153	61.638	5.994									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1110_straingst	999663045	48611111	56253	159.834	89.942									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_NCTC9087.fa.gz	45206	45188	56253	0.956	192.699	181.731	0.925	0.956	0.97	89.942	83.235	0.783	0.807
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1111_straingst	1259586804	61854217	89487	116.934	83.076									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_10.fa.gz	47593	47499	89487	0.987	164.413	159.577	0.736	0.987	0.701	45.037	61.163	0.495	0.707
+1	Esch_coli_SaT040.fa.gz	49932	26217	42629	0.937	86.851	80.592	0.773	0.937	0.882	38.039	16.939	0.561	0.636
+sample	totalkmers	distinct	pkmers	pkcov	pan%									
+W1120_straingst	1837467557	87438987	64852	161.346	56.946									
+i	strain	gkmers	ikmers	skmers	cov	kcov	gcov	acct	even	spec	rapct	old_rapct	wscore	score
+0	Esch_coli_Ecol_AZ147.fa.gz	46122	46068	64852	0.915	200.999	181.96	0.81	0.915	0.864	56.946	46.125	0.536	0.621
